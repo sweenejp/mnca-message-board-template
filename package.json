@@ -9,13 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
+    "url": "git+https://github.com/danurbanowicz/eleventy-netlify-boilerplate.git"
   },
-  "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
-  },
+  "author": "Dan Urbanowicz <dan.urbanowicz@gmail.com> (https://www.danurbanowicz.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
@@ -32,5 +28,7 @@
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9"
-  }
+  },
+  "main": ".eleventy.js",
+  "keywords": []
 }

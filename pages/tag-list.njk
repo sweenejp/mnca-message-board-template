@@ -1,0 +1,21 @@
+---
+title: Tags
+permalink: /tags/
+pagination:
+  data: collections
+  size: Infinity
+  filter:
+    - all
+    - nav
+    - post
+    - posts
+    - tagList
+    - authors
+eleventyNavigation:
+  key: Tags
+  order: 5
+---
+{% for tag in pagination.items | sort %}
+  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+  <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+{% endfor %}
