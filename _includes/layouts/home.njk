@@ -5,5 +5,14 @@ section: home
 
 {{ layoutContent | safe }}
 
+<h2>Here are the most imporant posts at the moment</h2>
+
+<div class="featured-post-div">
+    {% set postslist = collections.important %}
+    {% include "components/postslist.njk" %}
+</div>
+
+<h2>Here are all of the posts</h2>
+
 {% set postslist = collections.post %}
 {% include "components/postslist.njk" %}
