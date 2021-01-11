@@ -12,7 +12,6 @@ tags:
   - politics
   - sport
   - asdf
-  - ""
 ---
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/_uN2aPIdVYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
