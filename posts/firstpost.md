@@ -6,7 +6,7 @@ metaDescription: This is a sample meta description. If one is not present in
 date: 2019-01-01T00:00:00.000Z
 author: John Appleseed
 summary: Why contemplating our mortality can be a powerful catalyst for change
-featuredImage: https://images.unsplash.com/photo-1595527963322-ba994cb73270?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+featuredImage: https://images.unsplash.com/photo-1579828946903-cdda12e28204?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80
 tags:
   - tech
   - environment
