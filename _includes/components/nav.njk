@@ -1,9 +1,11 @@
+<input type="checkbox" class="nav-toggle" id="nav-toggle">
+<label for="nav-toggle" class="nav-toggle-label"><span><i class="fas fa-bars"></i></span></label>
 <nav>
   {% set navPages = collections.all | eleventyNavigation %}
-  <ul>
+  <ul class="nav-list">
   {%- for entry in navPages %}
-    <li>
-      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
+    <li class="nav-list-item">
+      <a class="nav-list-link" href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
     </li>
   {%- endfor %}
   </ul>

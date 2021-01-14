@@ -2,12 +2,11 @@
 layout: layouts/base.njk
 section: home
 ---
-
 {{ layoutContent | safe }}
 
+<div class="home-page-banner"><div>
+<div class="featured-posts-div">
 <h2>Here are the most imporant posts at the moment</h2>
-
-<div class="featured-post-div">
     {% set postslist = collections.important %}
     {% include "components/postslist.njk" %}
 </div>

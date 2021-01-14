@@ -1,11 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+/* fonts
+=========
+font-family: 'Lato', sans-serif;
+*/
+
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: #e87d2f;
+	--secondary: #ffd34f;
+	--tertiary: black;
+	--background: #effcff;
+	--headercolor: white;
+	--headerbackground: rgb(67, 69, 78);
 }
 
 *, *:before, *:after {
   box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
 }
 
 html,
@@ -23,6 +37,21 @@ img {
 /* =================
 typography 
 ==================== */
+.site-title,
+.site-subtitle,
+nav {
+	font-family: 'Lato', sans-serif;
+}
+
+.site-title {
+	font-size: 1.4rem;
+	font-weight: 300;
+}
+
+.site-subtitle {
+	font-weight: 700;
+	color: var(--secondary)
+}
 
 p,
 pre,
@@ -47,12 +76,7 @@ pre {
 	margin: .5em 0;
 }
 
-a[href],
-a[href]:visited {
-	color: var(--primary);
-}
-
-a[href]:not(:hover) {
+a {
 	text-decoration: none;
 }
 
@@ -61,15 +85,12 @@ layout
 ==================== */
 
 body {
-	height: 100vh;
   background-color: var(--background);
 }
 
-header,
-main,
-footer {
+main {
   padding: 1em;
-  max-width: 37.5em;
+  max-width: 95%;
   margin: auto;
 }
 
@@ -82,38 +103,172 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-/* Header */
-
-header {
+.home-page-banner{
+	width: 60vw;
+	height: 60vh;
+	background-image: url(https://images.unsplash.com/photo-1496196614460-48988a57fccf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80);
+	background-repeat: no-repeat;
 }
 
-/* Header Nav */
-header nav ul {
+.featured-posts-div {
+	border: solid red;
+}
+
+/***************** Header ******************/
+
+header {
+	position: relative;
+	background-color: var(--headerbackground);
+	width: 100%;
+}
+
+.title-div {
+	text-align: right;
+	color: var(--headercolor);
+	padding: .5rem;
+}
+
+.site-title,
+.site-subtitle {
+	margin: 0;
+}
+
+/* navigation */
+
+nav {
+	position: absolute;
+	background: var(--headerbackground);
+	top: 100%;
+	left: 0;
+	width: 100%;
+	transform: scale(1, 0);
+	transform-origin: top;
+	transition: transform 400ms ease-in-out;
+}
+
+.nav-list {
+	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-header nav ul :first-child {
-	margin-left: 0;
+.nav-list-item {
+	margin-bottom: 1em;
+	margin-left: 1em;
 }
 
-header nav li {
-	display: inline-block;
-	margin: 0 .25em;
+.nav-list-link {
+	position: relative;
+	padding: .25em;
+	color: var(--headercolor);
+	transition: all 200ms ease-in-out;
+	text-transform: uppercase;
+	opacity: 0;
+	transition: opacity 150ms ease-in-out; 
 }
 
-header nav li a {
-	padding: .25em .5em;
-	border-radius: .25em;
+.nav-list-link:visited {
+	color: var(--headercolor)
 }
 
-header nav li a[href]:not(:hover) {
-	text-decoration: none;
+.nav-list-link:hover,
+.nav-list-link:focus {
+	color: var(--secondary)
 }
 
-header nav li a[data-current="current item"] {
-	background-color: white;
+.nav-list-link[data-current="current item"] {
 }
+
+.nav-list-link[data-current="current item"]:hover {
+}
+
+/* navigation toggle */
+.nav-toggle:checked ~ nav {
+	transform: scale(1, 1);
+}
+
+.nav-toggle:checked ~ nav .nav-list-link {
+	opacity: 1;
+	transition: opacity 250ms ease-in-out 300ms; /* animation delay so that the menu items fade in after the menu expanding animatino */
+}
+
+.nav-toggle {
+	display: none;
+}
+
+.nav-toggle-label {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin-left: 1em;
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.nav-toggle-label i {
+	color: var(--headercolor);
+	cursor: pointer;
+	transition: color 200ms ease-in-out;
+}
+
+.nav-toggle-label i:hover {
+	color: var(--secondary);
+}
+
+@media screen and (min-width: 1000px) {
+	.nav-toggle-label {
+		display: none;
+	}
+
+	header {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	nav {
+		all: unset;
+		order: 1;
+		padding: .5rem;
+		display: flex;
+		align-items: center;
+	}
+
+	.title-div {
+		order: 2;
+	}
+
+	.nav-list {
+		display: flex;
+		gap: 1em;
+	}
+
+	.nav-list-item {
+		margin: 0;
+	}
+
+	.nav-list-link {
+		opacity: 1;
+	}
+
+	.nav-list-link::before {
+		content: "";
+		display: block;
+		height: 5px;
+		background: var(--primary);
+		position: absolute;
+		bottom: -.5em;
+		left: 0;
+		right: 0;
+		transform: scale(0, 1);
+		transition: transform ease-in-out 250ms;
+	}
+
+	.nav-list-link:hover::before {
+		transform: scale(1, 1);
+	}
+}
+
 
 /* Posts List */
 article {
@@ -191,4 +346,4 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
-}
+
