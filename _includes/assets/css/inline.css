@@ -92,11 +92,21 @@ body {
 }
 
 main {
+	padding-top: 75px;
 	width: 95%;
 	margin: auto;
 }
 
+.featured-posts-heading {
+	padding-bottom: 1em;
+}
+
+.all-posts-heading {
+	padding: 1em 0;
+}
+
 .sidebar {
+	padding-top: 75px;
 	display: none;
 }
 
@@ -117,7 +127,7 @@ main {
 	width: 100%;
 	height: 300px;
 	object-fit: cover;
-	object-position: top;
+	opacity: 0.75;
 	transition: opacity ease-in-out 250ms;
 }
 
@@ -126,7 +136,7 @@ main {
 }
 
 .post-card:hover .post-card-image {
-	opacity: .75;
+	opacity: 1;
 }
 
 .post-card-body {
@@ -166,7 +176,6 @@ main {
 	.sidebar {
 		display: block;
 		grid-area: 2 / 2 / 3 / 3;
-		outline: solid blue;
 	}
 
 }
@@ -178,6 +187,8 @@ header {
 	grid-area: 1 / 1 / 2 / 3;
 	background-color: var(--headerbackground);
 	width: 100%;
+	box-shadow: 3px 3px 10px 0 rgba(0, 0, 0, 0.25);
+	z-index: 999;
 }
 
 .title-div {
@@ -202,6 +213,7 @@ nav {
 	transform: scale(1, 0);
 	transform-origin: top;
 	transition: transform 400ms ease-in-out;
+	z-index: 999;
 }
 
 .nav-list {
@@ -245,7 +257,7 @@ nav {
 
 .nav-toggle:checked ~ nav .nav-list-link {
 	opacity: 1;
-	transition: opacity 250ms ease-in-out 300ms; /* animation delay so that the menu items fade in after the menu expanding animatino */
+	transition: opacity 250ms ease-in-out 300ms; /* animation delay so that the menu items fade in after the menu expanding animation */
 }
 
 .nav-toggle {
