@@ -16,8 +16,6 @@ font-family: 'Lato', sans-serif;
 
 *, *:before, *:after {
 	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
 }
 
 html {
@@ -94,11 +92,7 @@ body {
 main {
 	padding-top: 75px;
 	width: 95%;
-	margin: auto;
-}
-
-.featured-posts-heading {
-	padding-bottom: 1em;
+	margin: 0 auto;
 }
 
 .all-posts-heading {
@@ -107,6 +101,7 @@ main {
 
 .sidebar {
 	padding-top: 75px;
+	padding-left: 1em;
 	display: none;
 }
 
@@ -161,6 +156,12 @@ main {
 
 .post-card-data {
 	margin-bottom: 1em;
+}
+
+.sidebar-list,
+.tags-list {
+		list-style: none;
+		padding: 0;
 }
 
 @media screen and (min-width: 800px) {
