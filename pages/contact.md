@@ -10,10 +10,3 @@ eleventyNavigation:
   order: 3
 ---
 
-## Ms. Johnston
-
-## Mr. Michaletz
-
-## Ms. Ruble
-
-## Mr. Sweeney
