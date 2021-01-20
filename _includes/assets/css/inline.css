@@ -9,7 +9,7 @@ font-family: 'Lato', sans-serif;
 	--primary: #e87d2f;
 	--secondary: #ffd34f;
 	--tertiary: black;
-	--background: #effcff;
+	--background: #daf8ff;
 	--headercolor: white;
 	--headerbackground: rgb(67, 69, 78);
 }
@@ -86,7 +86,10 @@ layout
 ==================== */
 
 body {
-	background-color: var(--background);
+    background: url(/_includes/assets/images/turtle-line-art-valessiobrito-Green-sea-turtle.svg);
+    background-color: var(--background);
+    background-repeat: no-repeat;
+    background-blend-mode: screen;
 }
 
 main {
