@@ -16,7 +16,7 @@
 
 		{% if page.url != "/tags/" %}
 		<div class="sidebar">
-			<h2 class="sidebar-heading">Tags</h2>
+			<h2 class="sidebar-heading">All Tags</h2>
 			<ul class="sidebar-list">
 			{% for tag in collections.tagList | sort %}
 					{% set tagUrl %}/tags/{{ tag }}/{% endset %}

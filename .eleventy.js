@@ -20,6 +20,7 @@ module.exports = function (eleventyConfig) {
                         case "nav":
                         case "post":
                         case "posts":
+                        case "Important":
                             return false;
                     }
 
