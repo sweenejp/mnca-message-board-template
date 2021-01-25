@@ -4,10 +4,10 @@ section: post
 ---
 
 <article class="post-content-container">
-  <h1>{{ title }}</h1>
+  <h2 class="page-heading">{{ title }}</h2>
   <p>
     <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
     </small>
   </p>
   {% if tags %}
