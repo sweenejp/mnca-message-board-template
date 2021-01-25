@@ -6,7 +6,7 @@ eleventyNavigation:
 title: "Tags"
 ---
 <ul class="tags-list">
-  {% for tag in collections.tagList %}
+  {% for tag in collections.tagList | sort %}
     {% set tagUrl %}/tags/{{ tag }}/{% endset %}
     <li class="tags-list-item"><a href="{{ tagUrl | url }}" class="tags-list-link" rel="tag">{{ tag }}</a></li>
   {% endfor %}
