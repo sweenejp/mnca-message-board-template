@@ -17,8 +17,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Featured Image", name: "featuredImage", widget: "string", required: false, hint: "Add an image to the post's card. This is what appears next to the post title on the home page." }
+      - { label: "Summary", name: "summary", widget: "text", hint: "This is the text that will appear below the post title on the home page." }
+      - { label: "Featured Image", name: "featuredImage", widget: "image", required: false, hint: "Add an image to the post's card. This is what appears next to the post title on the home page." }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
