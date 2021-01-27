@@ -15,7 +15,7 @@
                 {% if teacher.data.webmailURL %}
                 <a href="{{ teacher.data.webmailURL }}">WebMail</a>
                 {% endif %}
-                <a href="{{ teacher.url | url }}">Read more about Ms. Johnston!</a>
+                <a href="{{ teacher.url | url }}">Read more about {{ teacher.data.teacherName }}!</a>
             </div>
         </div>
 
