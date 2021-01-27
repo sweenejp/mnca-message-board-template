@@ -1,21 +1,25 @@
 <div class="contact-cards">
-{% for teacher in collections.teacher | sort %}
-<article class="teacher-card">
-    <img class="teacher-card-image" src="{{ teacher.data.featuredImage }}" alt="">
 
-    <div class="teacher-card-body">
-        <h2>{{ teacher.data.teacherName }}</h2>
-        <p>Phone: {% if teacher.data.phoneNumber %}{{ teacher.data.phoneNumber }}{% endif %}</p>
-        
-        <div class="contact-options">
-            {% if teacher.data.phoneNumber %}
-            <a href="{{ teacher.data.youcanbookmeURL }}">YouCanBook.me</a>{% endif %}
-            {% if teacher.data.webmailURL %}
-            <a href="{{ teacher.data.webmailURL }}">WebMail</a>{% endif %}
-            <a href="https://www.connexus.com/communication/webmail/writeMessage.aspx?idRecipient=1268272">WebMail</a>
-            <a href="{{ teacher.url | url }}">Read more about Ms. Johnston!</a>
+    {% for teacher in collections.teacher | sort %}
+    <article class="teacher-card">
+        <img class="teacher-card-image" src="{{ teacher.data.featuredImage }}" alt="">
+
+        <div class="teacher-card-body">
+            <h2>{{ teacher.data.teacherName }}</h2>
+            <p>Phone: {% if teacher.data.phoneNumber %}{{ teacher.data.phoneNumber }}{% endif %}</p>
+            
+            <div class="contact-options">
+                {% if teacher.data.youcanbookmeURL %}
+                <a href="{{ teacher.data.youcanbookmeURL }}">YouCanBook.me</a>
+                {% endif %}
+                {% if teacher.data.webmailURL %}
+                <a href="{{ teacher.data.webmailURL }}">WebMail</a>
+                {% endif %}
+                <a href="{{ teacher.url | url }}">Read more about Ms. Johnston!</a>
+            </div>
         </div>
-    </div>
 
-</article>
+    </article>
+    {% endfor %}
+</div>
 
