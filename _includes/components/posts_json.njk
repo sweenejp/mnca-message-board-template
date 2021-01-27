@@ -1,0 +1,11 @@
+[
+    {% set counter = 1 %}   
+    {% for post in postslist %}
+    {
+        "id": {{counter}},
+        "title": "{{post.data.title}}",
+        "url": "{{post.url | url}}"
+    }{% if loop.last == false %},{% endif %}
+    {% set counter = counter + 1 %}
+    {% endfor %} 
+]
