@@ -1,6 +1,5 @@
 ---
 title: All about Mr. Sweeney
-layout: layouts/post.njk
 permalink: /sweeney/index.html
 date: 2021-01-25T22:40:12.185Z
 ---

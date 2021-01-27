@@ -1,0 +1,4 @@
+{
+    "tags": ["teachers"],
+    "layout": "layouts/post.njk"
+}
