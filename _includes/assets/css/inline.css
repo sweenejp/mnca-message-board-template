@@ -138,11 +138,8 @@ main {
 	border: 3px solid #eee;
 	margin-right: auto;
 	width: 150px;
-	height: 150px;
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	border-radius: 50%;
+    height: 150px;
+    object-fit: cover;
 }
 .teacher-card-body p {
 	margin-top: 10px;	

@@ -1,65 +1,21 @@
 <div class="contact-cards">
+{% for teacher in collections.teacher | sort %}
 <article class="teacher-card">
-    <img class="teacher-card-image" src="https://picsum.photos/200/300">
+    <img class="teacher-card-image" src="{{ teacher.data.featuredImage }}" alt="">
 
     <div class="teacher-card-body">
-        <h2>Ms. Johnston</h2>
-        <p>Phone: 651-323-1494</p>
+        <h2>{{ teacher.data.teacherName }}</h2>
+        <p>Phone: {% if teacher.data.phoneNumber %}{{ teacher.data.phoneNumber }}{% endif %}</p>
         
         <div class="contact-options">
-            <a href="https://emily-johnston.youcanbook.me">YouCanBook.me</a>
+            {% if teacher.data.phoneNumber %}
+            <a href="{{ teacher.data.youcanbookmeURL }}">YouCanBook.me</a>{% endif %}
+            {% if teacher.data.webmailURL %}
+            <a href="{{ teacher.data.webmailURL }}">WebMail</a>{% endif %}
             <a href="https://www.connexus.com/communication/webmail/writeMessage.aspx?idRecipient=1268272">WebMail</a>
-            <a href="/johnston/">Read more about Ms. Johnston!</a>
+            <a href="{{ teacher.url | url }}">Read more about Ms. Johnston!</a>
         </div>
     </div>
 
 </article>
 
-<article class="teacher-card">
-    <img class="teacher-card-image" src="https://picsum.photos/200/300">
-
-    <div class="teacher-card-body">
-        <h2>Mr. Michaletz</h2>
-        <p>Phone: 651-243-2991</p>
-        
-        <div class="contact-options">
-            <a href="https://rmichaletz.youcanbook.me">YouCanBook.me</a>
-            <a href="https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=4021797">WebMail</a>
-            <a href="/michaletz/">Read more about Mr. Michaletz!</a>
-        </div>
-    </div>
-
-</article>
-
-<article class="teacher-card">
-    <img class="teacher-card-image" src="https://picsum.photos/200/300">
-
-    <div class="teacher-card-body">
-        <h2>Ms. Ruble</h2>
-        <p>Phone: 704-600-7121</p>
-        
-        <div class="contact-options">
-            <a href="http://larublemnca.youcanbook.me">YouCanBook.me</a>
-            <a href="https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idRecipient=3453988">WebMail</a>
-            <a href="/ruble/">Read more about Ms. Ruble!</a>
-        </div>
-    </div>
-
-</article>
-
-
-<article class="teacher-card">
-    <img class="teacher-card-image" src="https://picsum.photos/200/300">
-
-    <div class="teacher-card-body">
-        <h2>Mr. Sweeney</h2>
-        <p>Phone: 612-293-9129</p>
-        
-        <div class="contact-options">
-            <a href="https://jasweeney.youcanbook.me/">YouCanBook.me</a>
-            <a href="https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770">WebMail</a>
-            <a href="/sweeney/">Read more about Mr. Sweeney!</a>
-        </div>
-    </div>
-
-</article>

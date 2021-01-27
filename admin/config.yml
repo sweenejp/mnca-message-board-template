@@ -23,14 +23,15 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "teachers"
-    label: "Teacher Pages"
+    label: "Teacher Page"
     folder: "pages/teachers"
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Image", name: "featuredImage", widget: "image", default: "https://freesvgdesigns.com/wp-content/uploads/2020/09/00034.png" }
+      - { label: "Your Name", name: "teacherName", widget: "string", hint: "This is how your name will be displayed (i.e 'Ms. Smith' or 'Suzzy Smith')"}
+      - { label: "Image", name: "featuredImage", widget: "image", required: false, default: "https://freesvgdesigns.com/wp-content/uploads/2020/09/00034.png" }
       - { label: "Youcanbook.me Page", name: "youcanbookmeURL", required: false, hint: "Paste the link to your youcanbook.me page", widget: "string"}
       - { label: "WebMail", name: "webmailURL", required: false, hint: "Paste the link to your WebMail", widget: "string"}
       - { label: "Phone Number", name: "phoneNumber", required: false, widget: "string"}
