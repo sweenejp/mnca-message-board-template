@@ -13,7 +13,7 @@ section: post
   {% if tags %}
     <p>
     {% for tag in tags %}
-      {%- if tag != "post" -%}
+      {%- if tag != "post" and tag != "Important" and tag !="teacher"-%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
         <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
       {%- endif -%}

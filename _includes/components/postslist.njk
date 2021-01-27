@@ -27,11 +27,9 @@
 				{% if post.data.tags %}
 					<p class="post-card-tags">
 						{% for tag in post.data.tags | sort %}
-			  			{%- if tag != "post" -%}
-                          {%- if tag != "Important" -%}
-			  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+			  			{%- if tag != "post" and tag != "Important" and tag !="teacher"-%}
+			  			{% set tagUrl %}/tags/{{ tag }}/{% endset %}
 			  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-                          {%- endif -%}
 			  			{%- endif -%}
 						{% endfor %}
 					</p>

@@ -2,7 +2,7 @@
 
     {% for teacher in collections.teacher | sort %}
     <article class="teacher-card">
-        <img class="teacher-card-image" src="{{ teacher.data.featuredImage }}" alt="">
+        <a href="{{ teacher.url | url }}"><img class="teacher-card-image" src="{{ teacher.data.featuredImage }}" alt=""></a>
 
         <div class="teacher-card-body">
             <h2>{{ teacher.data.teacherName }}</h2>
