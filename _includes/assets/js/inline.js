@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', async () => {
           this.ref('id')
           this.field('title', {boost: 10})
           this.field('summary')
-            // TODO: add body
+          
           documents.forEach(function (doc, idx) {
             // assign id
             doc.id = idx;
