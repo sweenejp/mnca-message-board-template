@@ -12,7 +12,7 @@ if (window.netlifyIdentity) {
 
 document.addEventListener('DOMContentLoaded', async () => {
   // fetch the posts
-  await fetch('../index.json').then(response => response.json()).then(json => {
+  await fetch(location.origin + '/index.json').then(response => response.json()).then(json => {
         const documents = json;
         const results_list = document.querySelector('.results');
         const search_btn = document.querySelector('.search_btn');
