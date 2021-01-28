@@ -26,7 +26,7 @@ html,
 body {
   padding: 0 0 1em 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
+	font-family: "Lato", sans-serif; 
 }
 
 img {
@@ -342,6 +342,66 @@ nav {
 	color: var(--secondary);
 }
 
+/* The Modal (background) */
+.modal {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1000; /* Sit on top */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+	background-color: #fefefe;
+	margin: 15% auto; /* 15% from the top and centered */
+	padding: 20px;
+	border-radius: 25px;
+	transition: all 250ms ease-in-out;
+	border: 1px solid #888;
+	width: 90%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+  input[type="text"] {
+	padding: 10px;
+	border: none;
+	border-radius: 25px;
+	width: 100%;
+}
+.search_input {
+	font-size: 1.5em;
+	margin-bottom: 20px;
+	font-family: 'Lato', sans-serif;
+	outline: none;
+	background: #eee;
+}
+#loading-text {
+	display: none;
+}
+.search_input:focus {
+	border: 3px solid var(--secondary);
+}
+
 @media screen and (min-width: 1000px) {
 	.nav-toggle-label {
 		display: none;
@@ -350,6 +410,10 @@ nav {
 	header {
 		display: flex;
 		justify-content: space-between;
+	}
+
+	.modal-content {
+		width: 50%;
 	}
 
 	nav {
@@ -366,6 +430,7 @@ nav {
 
 	.nav-list {
 		display: flex;
+		align-items: center;
 		gap: 1em;
 	}
 
@@ -421,6 +486,15 @@ a[rel="tag"]:last-child {
 	margin-right: 0;
 }
 
+.search_btn {
+	padding: 10px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+	background: var(--secondary);
+	border: none;
+	border-radius: 25px;
+}
+
 button {
 	border: 1px solid var(--primary);
 	background-color: var(--primary);
@@ -452,3 +526,5 @@ button {
   }
   
 }
+
+
