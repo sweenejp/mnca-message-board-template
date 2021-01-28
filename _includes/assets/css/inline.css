@@ -108,7 +108,7 @@ main {
 .postslist-grid {
 	display: grid;
 	gap: 1em;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
 
 .post-card {
@@ -116,20 +116,18 @@ main {
 	box-shadow: 3px 3px 10px 0 rgba(0, 0, 0, 0.25);
 }
 
-.contact-cards {
-	display: flex;
-	gap: 10px;
-	flex-wrap: wrap;
+contact-cards {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 }
 
 .teacher-card {
 	background: #ffffff;
 	padding: 25px;
 	text-align: center;
-	width: 350px;
-	border-top: 3px solid var(--secondary);
+	border-top: 3px solid var(--primary);
 	box-shadow: 3px 3px 10px 0 rgba(0, 0, 0, 0.25);
-	transition: transform 250ms ease-in-out;
 }
 
 .teacher-card-image {
@@ -137,16 +135,22 @@ main {
 	margin-left: auto;
 	border: 3px solid #eee;
 	margin-right: auto;
-	width: 150px;
-	height: 150px;
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	border-radius: 50%;
+    width: 300px;
+    height: 300px;
+	object-fit: cover;
+    border-radius: 50%;
+    opacity: .75;
+    transition: opacity ease-in-out 250ms;
 }
+
+.teacher-card:hover .teacher-card-image {
+	opacity: 1;
+}
+
 .teacher-card-body p {
 	margin-top: 10px;	
 }
+
 .contact-options {
   display: flex;
   flex-direction: column;
@@ -154,11 +158,13 @@ main {
 	margin-top: 10px;
 	justify-content: space-evenly;
 	align-items: center;
-
 }
+
 .teacher-card-body {
 	margin-top: 1em;
 }
+
+
 
 .post-card-image {
 	opacity: 1;
