@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # Uncomment below to enable drafts
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
@@ -22,12 +22,17 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
-  - name: "pages"
-    label: "Page"
-    folder: "pages"
-    create: false # Change to true to allow editors to create new pages
+  - name: "teachers"
+    label: "Teacher Page"
+    folder: "pages/teachers"
+    create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Your Name", name: "teacherName", widget: "string", hint: "This is how your name will be displayed (i.e 'Ms. Smith' or 'Suzzy Smith')"}
+      - { label: "Image", name: "featuredImage", widget: "image", required: false, default: "https://freesvgdesigns.com/wp-content/uploads/2020/09/00034.png" }
+      - { label: "Youcanbook.me Page", name: "youcanbookmeURL", required: false, hint: "Paste the link to your youcanbook.me page", widget: "string"}
+      - { label: "WebMail", name: "webmailURL", required: false, hint: "Paste the link to your WebMail", widget: "string"}
+      - { label: "Phone Number", name: "phoneNumber", required: false, widget: "string"}
       - { label: "Body", name: "body", widget: "markdown" }

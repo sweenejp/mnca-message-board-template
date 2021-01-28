@@ -4,7 +4,7 @@ import format from "https://unpkg.com/date-fns@2.7.0/esm/format/index.js?module"
 const html = htm.bind(h);
 
 // Preview component for a Post
-const Post = createClass({
+const Teacher = createClass({
   render() {
     const entry = this.props.entry;
 
@@ -26,20 +26,11 @@ const Post = createClass({
           </p>
 
           ${this.props.widgetFor("body")}
-          <p>
-            ${
-              entry.getIn(["data", "tags"], []).map(
-                tag =>
-                  html`
-                    <a href="#" rel="tag">${tag}</a>
-                  `
-              )
-            }
-          </p>
+         
         </article>
       </main>
     `;
   }
 });
 
-export default Post;
+export default Teacher;
