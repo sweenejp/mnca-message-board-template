@@ -8,6 +8,9 @@
       <a class="nav-list-link" href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
     </li>
   {%- endfor %}
-  <li><button class="search_btn">Click here to search</button></li>
+    <li class="nav-list-item">
+      <a class="nav-list-link" href="http://www.connexus.com/external/livelesson/?url-path=mncabiology&domain=ww3.livelesson.com" target="_blank">Bio <span>LiveLesson</span> Room</a>
+    </li>
+    <li class="nav-list-item"><button class="search_btn">Click here to search</button></li>
   </ul>
 </nav>

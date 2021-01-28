@@ -91,6 +91,10 @@ blockquote {
   border-left: 3px solid #ccc;
 }
 
+.nav-list-link span {
+  text-transform: initial;
+}
+
 /* =================
 layout 
 ==================== */
