@@ -2,7 +2,7 @@
 	{% for post in postslist | reverse %}
 		<article class="post-card" {% if post.url == url %} data-current="current item"{% endif %}>
 			{% if post.data.featuredImage %}
-				<a href="{{ post.url | url }}"><img class="post-card-image"src="{{ post.data.featuredImage }}" alt=""></a>
+				<a href="{{ post.url | url }}"><img class="post-card-image"src="{{ post.data.featuredImage }}" loading="lazy" alt=""></a>
 			{% endif %}
 			<div class="post-card-body">
 				<h3 class="post-card-title">
