@@ -11,50 +11,69 @@ if (window.netlifyIdentity) {
 
 
 document.addEventListener('DOMContentLoaded', async () => {
-  const search = document.querySelector('.search') || null;
-  const loading = document.getElementById('loading-text');
-
-  if (search) {
-    loading.style.display = "block";
-    await fetch('../index.json').then(response => response.json()).then(json => {
+  // fetch the posts
+  await fetch('../index.json').then(response => response.json()).then(json => {
         const documents = json;
-        const results_list = document.getElementById('results');
-          var idx = lunr(function () {
-            this.ref('id')
-            this.field('title')
+        const results_list = document.querySelector('.results');
+        const search_btn = document.querySelector('.search_btn');
+        const search_modal = document.getElementById('search_modal');
+        const search_input = document.querySelector('.search_input');
+        const search_close = document.querySelector(".close");
+        const results_text = document.querySelector('.results_text');
+
+        search_close.onclick = () => {
+          search_modal.style.display = "none";
+        }
+
+        const idx = lunr(function () {
+          this.ref('id')
+          this.field('title', {boost: 10})
             // TODO: add body
+          documents.forEach(function (doc, idx) {
+            // assign id
+            console.log(doc);
+            doc.id = idx;
+            this.add(doc)
+          }, this)
+        })
 
+        search_btn.addEventListener('click', (e) => {
+          results_list.innerHTML = "";
+          results_text.innerHTML = "";
+          search_input.value = "";
+          search_modal.style.display = "block";
+          search_input.focus();
+        });
 
-            documents.forEach(function (doc, idx) {
-              // assign id
-              console.log(doc);
-              doc.id = idx;
-              this.add(doc)
-            }, this)
-          })
+        window.onclick = (event) => {
+          if (event.target == search_modal) {
+            search_modal.style.display = "none";
+          }
+        }
 
-          console.log(idx);
-
-          search.addEventListener('keyup', (e) => {
-            if (search.value) {
-            console.log(search.value);
+        search_input.addEventListener('keyup', (e) => {
+          if (search_input.value) {
+            console.log(search_input.value);
             results_list.innerHTML = '';
-            var results = idx.search(search.value);
+            var results = idx.search(search_input.value);
 
-            console.log(results);
-
-            results.forEach(r => {
-              console.log(r);
-              results_list.innerHTML += `<li>${documents[r.ref].title}</li>`
-            }); 
+            if (results.length > 0) {
+              results_text.innerHTML = `Found ${results.length} ${results.length == 1 ? "result" : "results"}.`
+            } else {
+              results_text.innerHTML = `No results found for search term "${search_input.value}"`
             }
-          })
-          loading.style.display = "none";
+
+            results.forEach(result => {
+              console.log(result);
+              results_list.innerHTML += `<h3><a href="${documents[result.ref].url}">${documents[result.ref].title}</a></h3>`
+            });
+          }
+        });
+
+
+
+
     }).catch(err => {
       console.log(err);
-      loading.style.color = "red";
-      search.setAttribute("disabled", true);
-      loading.innerText = "An error occurred attempting to get the posts. Please try again later. "
     })
-  } 
-})
+  })
