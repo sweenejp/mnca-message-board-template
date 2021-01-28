@@ -10,4 +10,4 @@ phoneNumber: 704-600-7121
 ---
 Welcome, Fellow Biology Lovers!
 
-Mrs. Ruble is a runner, hiker, invertebrate lover and science enthusiast who LOVES to share science experiences with students! Join me in Group LL each Wednesday afternoon, or meet my in Office Hours, Tuesdays and Thursdays 1-4pm CST.
+Mrs. Ruble is a runner, hiker, invertebrate-lover and science enthusiast who LOVES to share science experiences with students! Join me in Group LL each Wednesday afternoon, or meet my in Office Hours, Tuesdays and Thursdays 1-4pm CST.
