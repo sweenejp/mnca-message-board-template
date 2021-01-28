@@ -4,7 +4,8 @@
     {
         "id": {{counter}},
         "title": "{{post.data.title}}",
-        "url": "{{post.url | url}}"
+        "url": "{{post.url | url}}",
+        "summary": "{{post.data.summary}}"
     }{% if loop.last == false %},{% endif %}
     {% set counter = counter + 1 %}
     {% endfor %} 

@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const idx = lunr(function () {
           this.ref('id')
           this.field('title', {boost: 10})
+          this.field('summary')
             // TODO: add body
           documents.forEach(function (doc, idx) {
             // assign id
