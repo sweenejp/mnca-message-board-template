@@ -35,4 +35,6 @@ collections:
       - { label: "Youcanbook.me Page", name: "youcanbookmeURL", required: false, hint: "Paste the link to your youcanbook.me page", widget: "string"}
       - { label: "WebMail", name: "webmailURL", required: false, hint: "Paste the link to your WebMail", widget: "string"}
       - { label: "Phone Number", name: "phoneNumber", required: false, widget: "string"}
+      - { label: "Office Hours", name: "officeHours", required: false, widget: "string"}
+      - { label: "LiveLesson Room", name: "livelessonURL", required: false, widget: "string", hint: "Paste the link to your LL room here"}
       - { label: "Body", name: "body", widget: "markdown" }

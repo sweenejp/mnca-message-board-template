@@ -15,6 +15,12 @@
                 {% if teacher.data.webmailURL %}
                 <a href="{{ teacher.data.webmailURL }}">WebMail</a>
                 {% endif %}
+                {% if teacher.data.officeHours %}
+                <p>{{ teacher.data.officeHours }}</p>
+                {% endif %}
+                {% if teacher.data.livelessonURL %}
+                <a href="{{ teacher.data.livelessonURL }}">My LiveLesson Room</a>
+                {% endif %}
                 <a href="{{ teacher.url | url }}">Read more about {{ teacher.data.teacherName }}!</a>
             </div>
         </div>
