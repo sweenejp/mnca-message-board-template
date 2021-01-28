@@ -19,9 +19,10 @@
 			<h2 class="sidebar-heading">All Tags</h2>
 			<ul class="sidebar-list">
 			{% for tag in collections.tagList | sort %}
-					{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-					<li class="sidebar-list-item"><a href="{{ tagUrl | url }}" class="post-tag" rel="tag">{{ tag }}</a></li>
+				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+				<li class="sidebar-list-item"><a href="{{ tagUrl | url }}" class="post-tag" rel="tag">{{ tag }}</a></li>
 			{% endfor %}
+                <li class="tags-list-item"><a href="/livelesson-recordings/" class="tags-list-link" rel="tag">LiveLesson Recordings</a></li>
 			</ul>
 		</div>
 		{% endif %}
