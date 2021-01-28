@@ -24,8 +24,7 @@ const Post = createClass({
               >
             </small>
           </p>
-
-          ${this.props.widgetFor("body")}
+          
           <p>
             ${
               entry.getIn(["data", "tags"], []).map(
@@ -36,6 +35,9 @@ const Post = createClass({
               )
             }
           </p>
+
+          ${this.props.widgetFor("body")}
+          
         </article>
       </main>
     `;
