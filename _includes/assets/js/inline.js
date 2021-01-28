@@ -31,7 +31,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             // TODO: add body
           documents.forEach(function (doc, idx) {
             // assign id
-            console.log(doc);
             doc.id = idx;
             this.add(doc)
           }, this)
@@ -53,7 +52,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         search_input.addEventListener('keyup', (e) => {
           if (search_input.value) {
-            console.log(search_input.value);
             results_list.innerHTML = '';
             var results = idx.search(search_input.value);
 
@@ -64,7 +62,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
 
             results.forEach(result => {
-              console.log(result);
               results_list.innerHTML += `<h3><a href="${documents[result.ref].url}">${documents[result.ref].title}</a></h3>`
             });
           }
