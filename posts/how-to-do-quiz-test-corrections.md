@@ -20,4 +20,4 @@ For any points missed on a test or quiz, please use the following format to subm
 * Where you found this information (book page number, lesson and slide number, etc). 
 
 You may submit this for each question you missed. 
-To find what questions you got wrong on a quiz: [How to](https://mnca-biology-message-board.netlify.app/posts/how-to-see-feedback/)
+[See here to find what questions you got wrong on a quiz.](/posts/how-to-see-feedback/)
