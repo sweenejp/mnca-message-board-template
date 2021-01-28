@@ -2,6 +2,7 @@
 title: Applying Mendel's Principles Part 1 - Unit 1 Lesson 2
 date: 2021-02-02T21:43:48.528Z
 summary: Punnett squares! Aghhhhh!
+featuredImage: https://upload.wikimedia.org/wikipedia/commons/f/fc/Two_Adult_Guinea_Pigs_%28cropped%29.jpg
 tags:
   - Unit 1
   - Lessons
