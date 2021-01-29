@@ -101,6 +101,10 @@ blockquote {
     color: white;
 }
 
+.white {
+    color: white;
+}
+
 /* =================
 layout 
 ==================== */
@@ -270,6 +274,8 @@ main {
 
 .sidebar-list,
 .tags-list {
+    display: flex;
+    flex-wrap: wrap;
   list-style: none;
   padding: 0;
 }
