@@ -1,7 +1,7 @@
 ---
 title: Unit 1 Portfolio - Mitosis vs Meiosis
 date: 2021-01-29T16:09:52.493Z
-summary: This is the portfolio for lesson 1.4. For corrections, send to Mr.Michaletz.
+summary: This is the portfolio for lesson 1.4.
 featuredImage: /static/img/mitosis.gif
 tags:
   - Portfolios
