@@ -6,22 +6,25 @@
 
         <div class="teacher-card-body">
             <h2>{{ teacher.data.teacherName }}</h2>
-            <p>Phone: {% if teacher.data.phoneNumber %}{{ teacher.data.phoneNumber }}{% endif %}</p>
             
             <div class="contact-options">
-                {% if teacher.data.youcanbookmeURL %}
-                <a href="{{ teacher.data.youcanbookmeURL }}">YouCanBook.me</a>
-                {% endif %}
-                {% if teacher.data.webmailURL %}
-                <a href="{{ teacher.data.webmailURL }}">WebMail</a>
-                {% endif %}
-                {% if teacher.data.officeHours %}
-                <p>{{ teacher.data.officeHours }}</p>
-                {% endif %}
-                {% if teacher.data.livelessonURL %}
-                <a href="{{ teacher.data.livelessonURL }}">My LiveLesson Room</a>
-                {% endif %}
-                <a href="{{ teacher.url | url }}">Read more about {{ teacher.data.teacherName }}!</a>
+                <ul class="contact-options-list">
+                    {% if teacher.data.phoneNumber %}
+                    <li class="contact-options-list-item"><p>Phone: {{ teacher.data.phoneNumber }}{% endif %}</p></li>
+                    {% if teacher.data.officeHours %}
+                    <li class="contact-options-list-item"><p>Office Hours: {{ teacher.data.officeHours }}</p></li>
+                    {% endif %}
+                    {% if teacher.data.youcanbookmeURL %}
+                    <li class="contact-options-list-item"><a href="{{ teacher.data.youcanbookmeURL }}">YouCanBook.me</a></li>
+                    {% endif %}
+                    {% if teacher.data.webmailURL %}
+                    <li class="contact-options-list-item"><a href="{{ teacher.data.webmailURL }}">WebMail</a></li>
+                    {% endif %}
+                    {% if teacher.data.livelessonURL %}
+                    <li class="contact-options-list-item"><a href="{{ teacher.data.livelessonURL }}">My LiveLesson Room</a></li>
+                    {% endif %}
+                    <li class="contact-options-list-item"><a href="{{ teacher.url | url }}">Read more about {{ teacher.data.teacherName }}!</a></li>
+                </ul>
             </div>
         </div>
 

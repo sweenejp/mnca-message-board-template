@@ -210,6 +210,21 @@ main {
 	align-items: center;
 }
 
+.contact-options-list {
+  list-style: none;
+  padding: 0;
+
+}
+
+.contact-options-list-item {
+  padding: 0;
+  margin: .5em 0;
+}
+
+.contact-options-list-item p {
+    margin: 0;
+}
+
 .teacher-card-body {
 	margin-top: 1em;
 }
