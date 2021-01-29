@@ -5,3 +5,5 @@ permalink: /livelesson-recordings/index.html
 ---
 
 Here are a list of this semester's LiveLesson Recordings:
+
+Coming soon!
