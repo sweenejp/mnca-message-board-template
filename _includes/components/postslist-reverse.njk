@@ -1,5 +1,5 @@
 <section class="postslist-grid">
-	{% for post in postslist %}
+	{% for post in postslist | reverse %}
 		<article class="post-card" {% if post.url == url %} data-current="current item"{% endif %}>
 			{% if post.data.featuredImage %}
 				<a href="{{ post.url | url }}"><img class="post-card-image"src="{{ post.data.featuredImage }}" loading="lazy" alt=""></a>

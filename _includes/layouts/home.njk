@@ -6,12 +6,12 @@ section: home
 
 <div class="home-page-banner"><div>
 <div class="featured-posts-div">
-<h2 class="featured-posts-heading">Here are the most imporant announcements at the moment</h2>
+<h2 class="featured-posts-heading">Here are the most imporant posts at the moment</h2>
     {% set postslist = collections.Important %}
-    {% include "components/postslist.njk" %}
+    {% include "components/postslist-reverse.njk" %}
 </div>
 
-<h2 class="all-posts-heading">Here are all of the announcements</h2>
+<h2 class="all-posts-heading">Here are all of the posts!</h2>
 
-{% set postslist = collections.Announcements %}
-{% include "components/postslist.njk" %}
+{% set postslist = collections.post %}
+{% include "components/postslist-reverse-mini.njk" %}

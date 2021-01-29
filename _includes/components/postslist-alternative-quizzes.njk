@@ -1,5 +1,7 @@
 <section class="postslist-grid">
-	{% for post in postslist %}
+	{% for post in collection %}
+    {% for tag in post.data.tags %}
+    {% if tag == "Alternative Quizzes" %}
 		<article class="post-card" {% if post.url == url %} data-current="current item"{% endif %}>
 			{% if post.data.featuredImage %}
 				<a href="{{ post.url | url }}"><img class="post-card-image"src="{{ post.data.featuredImage }}" loading="lazy" alt=""></a>
@@ -36,5 +38,7 @@
 			</div>
 			{% endif %}
 		</article>
+    {% endif %}
+	{% endfor %}
 	{% endfor %}
 </section>
