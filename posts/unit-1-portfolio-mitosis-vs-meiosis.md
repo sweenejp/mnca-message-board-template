@@ -1,11 +1,12 @@
 ---
 title: Unit 1 Portfolio - Mitosis vs Meiosis
-date: 2021-01-29T16:09:52.493Z
+date: 2021-02-04T16:09:52.493Z
 summary: This is the portfolio for lesson 1.4.
 featuredImage: /static/img/mitosis.gif
 tags:
   - Portfolios
   - Unit 1
+  - Important
 ---
 Here is the link to Portfolio 1. There is a video for how to do this assignment on the first slide.
 
