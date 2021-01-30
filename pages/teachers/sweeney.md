@@ -5,7 +5,7 @@ permalink: /sweeney/index.html
 title: All about Mr. Sweeney
 date: 2021-01-29T22:40:12.185Z
 teacherName: Mr. Sweeney
-featuredImage: /static/img/img_9780.jpg
+featuredImage: /static/img/mr.-sweeney.jpg
 youcanbookmeURL: https://jasweeney.youcanbook.me/
 phoneNumber: 612-293-9129
 officeHours: Varies - It's best to book a meeting!
@@ -18,7 +18,7 @@ An important note! Sometimes it can feel like you are working all on your own in
 
 ### More about Mr. Sweeney
 
-Ask me about my favorite books, my favorite places to go camping, and my favorite things to cook! I also like to play volleyball (although not much recently, unfortunately) and learn about computer languages. 
+Ask me about my favorite books, my favorite places to go camping, or my favorite things to cook! I also like to play volleyball (although not much recently, unfortunately) and learn about computer languages. 
 
 When I'm not reading, camping, cooking, playing volleyball, or teaching Biology, I am hanging out with my family. Here are a couple pictures of my son (Isaac) and my dog (Remus).
 
