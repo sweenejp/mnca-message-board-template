@@ -10,4 +10,8 @@ youcanbookmeURL: https://emily-johnston.youcanbook.me
 phoneNumber: 651-323-1494
 officeHours: Tu & F 1pm-3pm
 ---
-Oh hey there! About me....well, let's see...I am passionate about animals, adventure and protecting and preserving our planet (composting, recycling, and consuming less in general, are part of a lifestyle I embrace). I would almost always rather be outside. I like to be on the move! Motorcycles, horses, backpacking, cycling, longboarding, kayaking, thrifting, hikes with the dogs...but I also enjoy slowing down for coffee and a good book, knitting, or binging a good netflix find. Oh, and MUSIC! Must have music. What do we have in common? What do have in your life that's not on my list? Let's talk about it!
+![](/static/img/screen-shot-2020-09-08-at-9.16.51-am.png)
+
+Oh hey there! About me....well, let's see...I am passionate about animals, adventure and protecting and preserving our planet (composting, recycling, and consuming less in general, are part of a lifestyle I embrace). I would almost always rather be outside. I like to be on the move! Motorcycles, horses, backpacking, cycling, longboarding, kayaking, thrifting, hikes with the dogs...but I also enjoy slowing down for coffee and a good book, knitting, or binging a good netflix find. And helping people-volunteering time and random acts of kindness.  Oh, and MUSIC! Must have music. What do we have in common? What do you have in your life that's not on my list? Let's talk about it! I mean, we should probably talk about biology, too, but getting to know students outside of just the schoolwork, that's the best perk of the job! 
+
+![](/static/img/screen-shot-2020-08-26-at-10.23.57-am.png)
