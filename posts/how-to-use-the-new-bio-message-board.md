@@ -29,7 +29,7 @@ You can easily find posts that you are looking for by navigating with tags. You 
 
 ![A gif showing how to navigate the Message Board with tags ](/static/img/how-to-use-tags-mb.gif)
 
-You can see all the tags on the sidebar on on the [tags page](/tags). You'll also see which tags each post is tagged with on each individual post.
+You can see all the tags on the sidebar or on the [tags page](/tags). You can also see which tags each post is tagged with on each individual post.
 
 ### Find resources with the search button
 
