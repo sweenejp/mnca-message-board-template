@@ -1,7 +1,9 @@
 ---
 title: How to use the new Bio Message Board
 date: 2021-02-01T20:50:19.944Z
-summary: A quick guide to our new Message Board
+summary: A quick guide to our new Message Board. Portfolios? Quizzes? Tests?
+  Helpful videos? You can find everything you need for Biology class here on the
+  Message Board.
 featuredImage: https://i.pinimg.com/originals/46/9e/93/469e93f1977e039f13730a84c4c3ed7f.jpg
 tags:
   - How To
