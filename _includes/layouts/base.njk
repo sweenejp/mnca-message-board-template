@@ -6,7 +6,10 @@
 	<body>
 
 		<header>
-			<div class="title-div"><h1 class="site-title">{{ metadata.title }}</h1><p class="site-subtitle">{{ metadata.subtitle }}</p></div>
+			<div class="title-div">
+                <h1 class="site-title"><a href="/">{{ metadata.title }}</a></h1>
+                <p class="site-subtitle">{{ metadata.subtitle }}</p>
+            </div>
 			{% include "components/nav.njk" %}
 		</header>
 

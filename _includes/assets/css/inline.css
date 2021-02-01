@@ -39,11 +39,16 @@ img {
 /* =================
 typography 
 ==================== */
+
 .site-title,
 .site-subtitle,
 nav,
 .post-card {
 	font-family: 'Lato', sans-serif;
+}
+
+.site-title a {
+    color: white;
 }
 
 .site-title {
