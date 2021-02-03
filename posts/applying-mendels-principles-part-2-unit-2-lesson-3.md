@@ -13,6 +13,6 @@ Moo. Why the picture of a cow? This cow's fur - wait, does a cow have fur? Is it
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/YJHGfbW55l0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Do you know what blood type you are? Your blood type is a result of combinations of A, B, and O alleles. A and B are dominant alleles and O is a recessive allele. Watch the video for a better understanding.
+Do you know what blood type you are? Your blood type is a result of combinations of *A*, *B*, and *O* alleles. *A* and *B* are dominant alleles and *O* is a recessive allele. Watch the video for a better understanding.
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/9O5JQqlngFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
