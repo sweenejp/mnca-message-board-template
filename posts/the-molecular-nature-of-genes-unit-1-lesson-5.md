@@ -5,6 +5,7 @@ summary: What does DNA have to do with genes?
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/800px-Giraffe_Mikumi_National_Park.jpg
 tags:
   - Lessons
+  - Unit 1
 ---
 Here's a duh statement: Giraffes have long necks. Here's another duh statement: zebras don't have necks as long as giraffes. Why the difference? It's because giraffes and zebras have a different set of instructions in their cells. That is, their DNA is different.
 
