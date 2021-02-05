@@ -2,6 +2,7 @@
 title: The Molecular Nature of Genes - Unit 1 Lesson 5
 date: 2021-02-09T14:10:00.000Z
 summary: What does DNA have to do with genes?
+featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/800px-Giraffe_Mikumi_National_Park.jpg
 tags:
   - Lessons
 ---
