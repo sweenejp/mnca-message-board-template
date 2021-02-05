@@ -6,6 +6,7 @@ summary: DNA is like a really, really long book and cells act like copy machines
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/320px-DNA_replication_split.svg.png
 tags:
   - Lessons
+  - Unit 1
 ---
 Remember how we learned that during mitosis cells need to make a copy of their DNA before replicating? Guess how many base pairs make up a human's DNA. Okay I Googled it for you. Here is what Google says.
 
