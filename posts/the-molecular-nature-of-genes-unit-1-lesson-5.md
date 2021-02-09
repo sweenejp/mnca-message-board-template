@@ -12,3 +12,5 @@ Here's a duh statement: Giraffes have long necks. Here's another duh statement: 
 We did not always know how living things "knew" to be different than other living things. Scientists like Gregor Mendel and Charles Darwin (more on him in Unit 2) knew that living things must have instructions, but they didn't know where those instructions were or what they were "written" on.
 
 In fact, it wasn't until the early 20th century that scientists began to realize how important DNA was. The video below describes two experiments that helped us realize what the function (purpose) of DNA is. These experiments are both explained in your lesson and in the text book, but I think the video does an exceptionally good job of explaining them.
+
+<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/0QjVnJ7H198" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
