@@ -17,3 +17,5 @@ In other words, each of your cells need the full "book" of DNA. And that books i
 New cells come from other cells. So cells must be really good at copying long strands of DNA so that the new cells get a perfect copy of the DNA. In other words, when it comes to copying billions of A's, T's, C's, and G's... cells are pretty good at that. How do cells "know" how to copy all of that DNA correctly? It turns out it's a team effort among many types of proteins.
 
 The Amoeba Sisters describe the complex process of DNA replication. Don't feel like you need to memorize all of the names of the proteins involved. I'm hoping the video gives you a sense of how relatively simple things such as proteins are able to coordinate to complete a very complex task.
+
+<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/Qqe4thU-os8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
