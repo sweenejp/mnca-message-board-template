@@ -7,6 +7,6 @@ tags:
   - Tests
   - Unit 1
 ---
-Remember to click "submit" when you completed the test. Please [reach out to one of the Biology teachers](/contact) if you have questions.
+Remember to click "submit" when you have completed the test. Please [reach out to one of the Biology teachers](/contact) if you have questions.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfmBjckTG0gYXvehGlXQWv5DXhYgfFKaJcmSdwSgO4taGWK4A/viewform?embedded=true" width="100%" height="6011" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
