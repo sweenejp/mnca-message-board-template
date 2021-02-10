@@ -22,6 +22,7 @@ module.exports = function (eleventyConfig) {
                         case "posts":
                         case "Important":
                         case "teacher":
+                        case "Hide":
                             return false;
                     }
 

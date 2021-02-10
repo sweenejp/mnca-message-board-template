@@ -2,6 +2,7 @@
 title: How To Find Your Student ID
 tags:
   - How To
+  - Hide
 homepage-off: true;
 date: 2021-01-01T16:34:40.386Z
 summary: You can find your ID in your grade book! See here for more.

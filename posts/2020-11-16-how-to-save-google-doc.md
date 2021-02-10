@@ -2,6 +2,7 @@
 title: How to Save a Google Doc
 tags:
   - How To
+  - Hide
 homepage-off: true;
 date: 2021-01-01T17:09:50.004Z
 summary: Make sure you know how to save a Google Doc!

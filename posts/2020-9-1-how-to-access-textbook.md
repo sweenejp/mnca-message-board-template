@@ -2,6 +2,7 @@
 title: How To Access Textbook
 tags:
   - How To
+  - Hide
 homepage-off: true;
 date: 2021-01-01T16:26:51.612Z
 summary: "A quick reminder with images about how to find your e-textbook. "

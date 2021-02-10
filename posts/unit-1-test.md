@@ -6,6 +6,7 @@ featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/202002_
 tags:
   - Tests
   - Unit 1
+  - Hide
 ---
 Remember to click "submit" when you have completed the test. Please [reach out to one of the Biology teachers](/contact) if you have questions.
 

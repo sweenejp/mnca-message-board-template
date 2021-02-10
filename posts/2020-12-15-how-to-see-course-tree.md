@@ -2,6 +2,7 @@
 title: How to see your Course Tree
 tags:
   - How To
+  - Hide
 homepage-off: true;
 date: 2021-01-01T17:15:00.161Z
 summary: You can see all of your lessons in the Course Tree.
