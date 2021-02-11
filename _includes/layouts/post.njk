@@ -2,9 +2,11 @@
 layout: layouts/base.njk
 section: post
 ---
-
 <article class="post-content-container">
-  <h2 class="page-heading">{{ title }}</h2>
+  <div class="post-heading-flexbox">
+      <img class="post-featured-image" src="{{ featuredImage }}"alt="">
+      <h2 class="page-heading">{{ title }}</h2>
+  </div>
   <p>
     <small>This post was last updated on: 
       <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
