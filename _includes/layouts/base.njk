@@ -18,16 +18,22 @@
 		</main>
 
 		{% if page.url != "/tags/" %}
-		<div class="sidebar">
-			<h2 class="sidebar-heading">All Tags</h2>
-			<ul class="sidebar-list">
-			{% for tag in collections.tagList | sort %}
-				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-				<li class="sidebar-list-item"><a href="{{ tagUrl | url }}" class="post-tag" rel="tag">{{ tag }}</a></li>
-			{% endfor %}
-                <li class="tags-list-item"><a href="/livelesson-recordings/" class="tags-list-link" rel="tag">LiveLesson Recordings</a></li>
-                <small class="white"><em>Biology LiveLessons are on Mondays at 10:00 AM and Wednesdays at 1:00 PM!</em></small>
-			</ul>
+		<div>
+		    <div class="sidebar">
+    			<h2 class="sidebar-heading">All Tags</h2>
+    			<ul class="sidebar-list">
+    			{% for tag in collections.tagList | sort %}
+    				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+    				<li class="sidebar-list-item"><a href="{{ tagUrl | url }}" class="post-tag" rel="tag">{{ tag }}</a></li>
+    			{% endfor %}
+                    <li class="tags-list-item"><a href="/livelesson-recordings/" class="tags-list-link" rel="tag">LiveLesson Recordings</a></li>
+                    <small class="white"><em>Biology LiveLessons are on Mondays at 10:00 AM and Wednesdays at 1:00 PM!</em></small>
+    			</ul>
+    		</div>
+            <div class="sidebar">
+                <h2 class="white" >Need help?</h2>
+                <p class="primary"><a class="secondary underline-on-hover" href="/contact">Book a meeting</a> with one of your Biology teachers.</p>
+            </div>
 		</div>
 		{% endif %}
 		
