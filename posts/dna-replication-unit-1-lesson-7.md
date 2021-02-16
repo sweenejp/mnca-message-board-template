@@ -1,6 +1,6 @@
 ---
 title: DNA Replication - Unit 1 Lesson 7
-date: 2021-02-16T19:30:39.608Z
+date: 2021-02-16T15:29:43.633Z
 summary: DNA is like a really, really long book and cells act like copy machines
   to copy that book.
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/320px-DNA_replication_split.svg.png
