@@ -1,6 +1,6 @@
 ---
 title: DNA Sequencing and Analysis - Unit 1 Lesson 8
-date: 2021-02-16T19:07:46.713Z
+date: 2021-02-17T16:58:27.123Z
 summary: Explore more detail about the tools that scientists use to "read" DNA.
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/e/e5/%22Electrophoresis%22._Gel_in_UV_transilluminator._Institute_of_Systematics_and_Evolution_of_Animals_Polish_Academy_of_Sciences_in_Cracov.jpg
 tags:
