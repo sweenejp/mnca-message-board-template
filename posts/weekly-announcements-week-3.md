@@ -8,6 +8,8 @@ tags:
 ---
 Hello Biology students!
 
+Here are the announcements for Week 3.
+
 ## Semester Conferences
 
 If you haven’t completed a Semester Conference yet this semester, [please book a time](/contact/) with any of the Biology teachers to do so.
