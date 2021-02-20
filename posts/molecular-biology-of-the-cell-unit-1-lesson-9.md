@@ -1,6 +1,6 @@
 ---
 title: Molecular Biology of the Cell - Unit 1 Lesson 9
-date: 2021-02-16T19:16:38.036Z
+date: 2021-02-20T16:44:19.166Z
 summary: "How does some DNA in a plant's cells actually make the flower purple? "
 featuredImage: https://i.pinimg.com/736x/96/6f/90/966f900b59655d6dd0dbc55d99ff148f--cell-wall-photos-of-flowers.jpg
 tags:
