@@ -2,6 +2,7 @@
 title: The Process of Transcription - Unit 1 Lesson 10
 date: 2021-02-22T14:44:43.494Z
 summary: Transcription is DNA to RNA. See this post for helpful videos.
+featuredImage: https://www.genome.gov/sites/default/files/tg/en/illustration/transcription.jpg
 tags:
   - Unit 1
   - Lessons
