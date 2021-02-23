@@ -27,7 +27,7 @@ Transcription and translation is how a simple molecule like DNA can get turned i
 
 ![an illustration of insulin](https://upload.wikimedia.org/wikipedia/commons/4/4e/Insulin_chain_A_and_B_linked_by_disulfide_bridges.gif)
 
- Note - technically insulin is two proteins connected to each other. It's what's called a "protein complex".
+###### Note - technically insulin is two proteins connected to each other. It's what's called a "protein complex".
 
 Insulin, of course, has a very important job in our bodies - to help regulate our blood sugars. And, again, the instructions for insulin are "written" in the DNA! That's pretty dang incredible if you ask me.
 
