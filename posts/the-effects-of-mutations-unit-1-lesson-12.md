@@ -9,7 +9,7 @@ tags:
 ---
 Mutations! The science of how super heroes develop their super powers. I hope you are excited to learn the genetic mechanisms of Cyclops and Magneto. Wait, no, just kidding... Sadly, mutations don't allow you to shoot lasers out of your eyes or bend spoons with your mind. In fact, genetic mutations often are bad for organisms. Not always, though! Without mutations we wouldn't have the vast diversity of life that surrounds us on Earth. Ultimately, all the differences in DNA between you, your brother, and a banana tree, were the result of mutations at some point in history (keep in mind, the history of life is veeeerrrrry long). 
 
-Okay but what are mutations? Mr. Anderson from Bozeman Science explains using a cookie recipe analogy - [remember how genes are like recipes??](/posts/mendel's-experiments-unit-1-lesson-1/) Some mutations are harmless to the recipe. Some are bad. And some, could be good! He does not mention this in the video, but might there be a random change to the cookie recipe that makes it better? Or healthier? Or allow people with certain allergies to eat them?
+Okay but what are mutations? Mr. Anderson from Bozeman Science explains using a cookie recipe analogy - [remember how genes are like recipes??](/posts/mendel's-experiments-unit-1-lesson-1/) Some mutations are harmless to the recipe. Some are bad. And some, could be good! While you watch, think about this: Could there be a small change to the cookie recipe that would make it better? Or healthier? Or allow people with certain allergies to eat them?
 
 The second video is from the Amoeba Sisters. Watching both videos will help you gain a clear understanding of what mutations are (and aren't), how they occur, and the different types of mutations that can happen.
 
