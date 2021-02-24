@@ -1,6 +1,6 @@
 ---
 title: LiveLesson Recordings
-date: 2021-02-22T19:39:44.007Z
+date: 2021-02-24T21:19:58.879Z
 permalink: /livelesson-recordings/index.html
 ---
 Here are a list of this semester's LiveLesson Recordings:
@@ -16,3 +16,5 @@ February 3rd - Intro to Heredity and Mendelian Patterns --two segments ([rec 1](
 [February 17th - GMO and DNA](https://www.connexus.com/external/livelesson/?url-path=pb1zch5fuqci&domain=ww3.livelesson.com)
 
 February 22nd - [A more complex genetic problem & introducing the Biology Word Wall](https://www.connexus.com/external/livelesson/?url-path=pi1g2o2eet0k&domain=ww3.livelesson.com)
+
+February 24th--[Genetic Technology, Continued](https://www.connexus.com/external/livelesson/?url-path=p5arxq7roe25&domain=ww3.livelesson.com)
