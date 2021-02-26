@@ -6,7 +6,6 @@ summary: Take a few minutes to read this welcome message. There is some very
 featuredImage: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1548&q=80
 tags:
   - Announcements
-  - Important
 ---
 ![waving flowers](https://media.giphy.com/media/ifBHjB1veMVVmO2U8M/giphy.gif)
 
