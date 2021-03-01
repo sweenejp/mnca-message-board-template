@@ -15,6 +15,8 @@ February 3rd - Intro to Heredity and Mendelian Patterns --two segments ([rec 1](
 
 [February 17th - GMO and DNA](https://www.connexus.com/external/livelesson/?url-path=pb1zch5fuqci&domain=ww3.livelesson.com)
 
-February 22nd - [A more complex genetic problem & introducing the Biology Word Wall](https://www.connexus.com/external/livelesson/?url-path=pi1g2o2eet0k&domain=ww3.livelesson.com)
+[February 22nd - A more complex genetic problem & introducing the Biology Word Wall](https://www.connexus.com/external/livelesson/?url-path=pi1g2o2eet0k&domain=ww3.livelesson.com)
 
-February 24th--[Genetic Technology, Continued](https://www.connexus.com/external/livelesson/?url-path=p5arxq7roe25&domain=ww3.livelesson.com)
+[February 24th - Genetic Technology, Continued](https://www.connexus.com/external/livelesson/?url-path=p5arxq7roe25&domain=ww3.livelesson.com)
+
+[March 1st - Transcription, translation, and mutations review](https://www.connexus.com/external/livelesson/?url-path=p7ir17z84lfz&domain=ww3.livelesson.com)
