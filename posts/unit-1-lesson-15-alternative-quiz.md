@@ -1,13 +1,12 @@
 ---
 title: Unit 1 Lesson 15 Alternative Quiz
-date: 2021-02-23T17:15:25.134Z
+date: 2021-03-02T14:52:02.601Z
 summary: You have the option to take the Alternative Quiz for Unit 1 Lesson 15.
   Please only take this quiz if you have completed that lesson.
 featuredImage: https://maxcdn.icons8.com/Share/icon/Hands/thumbs_up1600.png
 tags:
   - Alternative Quizzes
   - Unit 1
-  - Hide
 ---
 Please only complete this quiz if you have completed Unit 1 Lesson 15. Once you have completed the quiz:
 
