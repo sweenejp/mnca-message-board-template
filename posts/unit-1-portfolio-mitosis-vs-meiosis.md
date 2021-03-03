@@ -6,7 +6,6 @@ featuredImage: /static/img/mitosis.gif
 tags:
   - Portfolios
   - Unit 1
-  - Important
 ---
 Here is the link to Portfolio 1. There is a video for how to do this assignment on the first slide.
 
