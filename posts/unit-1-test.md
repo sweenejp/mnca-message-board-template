@@ -1,12 +1,12 @@
 ---
 title: Unit 1 Test
-date: 2021-02-10T19:53:39.298Z
+date: 2021-03-03T15:40:18.097Z
 summary: Only take the Unit 1 Test once you have completed Unit 1.
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/202002_Laboratory_instrument_dna.svg/800px-202002_Laboratory_instrument_dna.svg.png
 tags:
   - Tests
   - Unit 1
-  - Hide
+  - Important
 ---
 Remember to click "submit" when you have completed the test. Please [reach out to one of the Biology teachers](/contact) if you have questions.
 
