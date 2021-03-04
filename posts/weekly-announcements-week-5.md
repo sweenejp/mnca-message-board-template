@@ -6,6 +6,7 @@ featuredImage: https://live.staticflickr.com/4255/35340280131_253b42509f_b.jpg
 tags:
   - Announcements
   - Important
+  - Hide
 ---
 Hello Biology students!
 
