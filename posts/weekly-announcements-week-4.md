@@ -5,7 +5,6 @@ summary: Take a moment to read these announcements!
 featuredImage: https://images.unsplash.com/photo-1502780402662-acc01c084a25?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=780&q=80
 tags:
   - Announcements
-  - Important
   - Hide
 ---
 Hello everyone!
