@@ -11,7 +11,7 @@ permalink: /bio-b-u2-l7-alt-quiz-images.html
 
 **B:**
 
-![Option B](/static/img/polygenic-selection-curves-3.png)
+![Option B](/static/img/polygenic-selection-curves-4.png)
 
 ---
 
@@ -23,4 +23,4 @@ permalink: /bio-b-u2-l7-alt-quiz-images.html
 
 **D:**
 
-![Option D](/static/img/polygenic-selection-curves-4.png)
+![Option D](/static/img/polygenic-selection-curves-3.png)
