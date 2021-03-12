@@ -7,6 +7,7 @@ featuredImage: https://live.staticflickr.com/7879/47478327751_4b335b6dee_b.jpg
 tags:
   - Unit 2
   - Alternative Quizzes
+  - Hide
 ---
 Please only complete this quiz if you have completed Unit 2 Lesson 7. Once you have completed the quiz:
 
