@@ -5,6 +5,8 @@ summary: Take a moment to read the announcements!
 featuredImage: https://live.staticflickr.com/698/23309975899_c907611acf_b.jpg
 tags:
   - Announcements
+  - Important
+  - Hide
 ---
 Hi there Bio students.
 
