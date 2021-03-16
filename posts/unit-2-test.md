@@ -8,4 +8,6 @@ tags:
   - Unit 2
   - Hide
 ---
+Remember to click "submit" when you have completed the test. Please [reach out to one of the Biology teachers](/contact/) if you have questions.
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBu38vGpcS6Os9Q5SPk0hWyuFOKGG8NjWvuVKi4w3egRD65g/viewform?embedded=true" width="100%" height="5160" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
