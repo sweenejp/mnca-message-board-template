@@ -10,3 +10,5 @@ tags:
 Just a video for today!
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://drive.google.com/file/d/13qg6nQneIowwDxf2EM4sZ0d0vucCKV6T/preview" width="100%" height="480"></iframe></div>
+
+Remember that this lesson has [an alternative quiz](/posts/unit-2-lesson-7-alternative-quiz/) that you can take instead of the Connexus quiz!
