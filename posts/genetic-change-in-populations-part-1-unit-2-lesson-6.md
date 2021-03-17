@@ -1,6 +1,6 @@
 ---
 title: Genetic Change in Populations Part 1 - Unit 2 Lesson 6
-date: 2021-03-17T18:50:48.525Z
+date: 2021-03-18T19:06:53.079Z
 summary: Compare genetic drift with natural selection
 featuredImage: https://cdn.kastatic.org/ka-perseus-images/b234e8458b515387b9e048050170127b4448d0a5.jpg
 tags:
