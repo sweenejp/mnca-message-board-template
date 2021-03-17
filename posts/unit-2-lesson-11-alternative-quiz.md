@@ -1,7 +1,7 @@
 ---
 title: Unit 2 Lesson 11 Alternative Quiz
 date: 2021-03-17T16:04:35.123Z
-summary: Please only take this quiz if you have completed Unit 2 Lesson 11.
+summary: Please only take this quiz if you have completed Unit 2 Lesson 11!
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/e/ed/Zorse.jpg
 tags:
   - Alternative Quizzes
