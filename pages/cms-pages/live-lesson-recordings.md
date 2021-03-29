@@ -1,6 +1,6 @@
 ---
 title: LiveLesson Recordings
-date: 2021-02-24T21:19:58.879Z
+date: 2021-03-29T18:11:23.827Z
 permalink: /livelesson-recordings/index.html
 ---
 Here are a list of this semester's LiveLesson Recordings:
@@ -20,3 +20,5 @@ February 3rd - Intro to Heredity and Mendelian Patterns --two segments ([rec 1](
 [February 24th - Genetic Technology, Continued](https://www.connexus.com/external/livelesson/?url-path=p5arxq7roe25&domain=ww3.livelesson.com)
 
 [March 1st - Transcription, translation, and mutations review](https://www.connexus.com/external/livelesson/?url-path=p7ir17z84lfz&domain=ww3.livelesson.com)
+
+[March 29th - Reviewing Unit 2 Lesson 7 Alt Quiz](https://www.connexus.com/external/livelesson/?url-path=pyo45c6rkms5&domain=ww3.livelesson.com)
