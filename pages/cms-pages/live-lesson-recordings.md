@@ -1,6 +1,6 @@
 ---
 title: LiveLesson Recordings
-date: 2021-02-24T21:19:58.879Z
+date: 2021-03-29T18:11:23.827Z
 permalink: /livelesson-recordings/index.html
 ---
 Here are a list of this semester's LiveLesson Recordings:
