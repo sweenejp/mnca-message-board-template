@@ -4,8 +4,6 @@ date: 2021-02-24T18:42:04.067Z
 summary: A virtual "Word Wall". Contribute to help it grow!
 featuredImage: /static/img/word-wall-featured.jpg
 tags:
-  - Important
-  - Hide
   - Announcements
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTM4vbcv7ALrn3hud_qlxwBYo1CAc4SmRFoytfJfN-7TY1Hf7GDYfbxQybDqNCDYsjr2TmnIBmOGyEH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
