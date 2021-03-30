@@ -7,6 +7,10 @@ tags:
   - Unit 2
   - Lessons
 ---
+#### Note! This lesson has an [alternative quiz](/posts/unit-2-lesson-11-alternative-quiz/).
+
+---
+
 We are already mid-way through the Evolution unit! My favorite thing about learning about evolution and natural selection is that it opens up a world of questions. Most of those questions start with "why." If you are like me, you might even annoy those around you by constantly asking "why?". 
 
 [Like, why are plant leaves different shapes?](https://www.mnn.com/earth-matters/wilderness-resources/stories/leaves-different-shapes-sizes)
@@ -19,8 +23,7 @@ We are already mid-way through the Evolution unit! My favorite thing about learn
 
 [Why do cicadas only appear every 17 years?](https://www.youtube.com/watch?v=EWr8fzUz-Yw)
 
-I'm wondering what questions you have! Fill in the blanks: How did \_\_(some behavior/trait)\_\_ evolve in \_\_(a species)\_\_? Or, why do \_\_\_\_\_\_\_\__ have/do \_\_\_\_\_\_\_ ? If you'd like, send me webmail with your question! 
-
+I'm wondering what questions you have! Fill in the blanks: How did \_\_(some behavior/trait)\_\_ evolve in \_\_(a species)\_\_? Or, why do \_\_\_\_\_\_\_\__ have/do \_\_\_\_\_\__ ? If you'd like, send me webmail with your question! 
 
 Watch Mr. Anderson from Bozeman Science for more review:
 
