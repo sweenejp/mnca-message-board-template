@@ -1,7 +1,8 @@
 ---
-title: Molecular Evolution Part 1 - Unit 2 Lesson 9
+title: Molecular Evolution - Unit 2 Lessons 9 and 10
 date: 2021-03-29T14:16:46.468Z
 summary: Let's learn about molecular clocks.
+featuredImage: https://cdn.pixabay.com/photo/2014/05/30/07/23/pizza-boxes-358029_960_720.jpg
 tags:
   - Unit 2
   - Lessons
