@@ -6,6 +6,7 @@ featuredImage: https://cdn.britannica.com/s:800x1000/84/206384-050-00698723/Java
 tags:
   - Announcements
   - Important
+  - Hide
 ---
 Hello Biology students!
 
