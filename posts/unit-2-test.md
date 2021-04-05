@@ -7,6 +7,7 @@ tags:
   - Tests
   - Unit 2
   - Hide
+  - Important
 ---
 Remember to click "submit" when you have completed the test. Please [reach out to one of the Biology teachers](/contact/) if you have questions.
 
