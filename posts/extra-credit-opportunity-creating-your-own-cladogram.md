@@ -41,4 +41,4 @@ Here are some other important things to consider:
 * Remember you can use any 5 (or more) organisms that you want. Have fun exploring how  they are related.
 * Give a description of the common ancestor. If possible, give a description of the shared characteristics of organisms that share that common ancestor.
 * Create the the cladogram on your computer or on paper. Send your final product as an attachment in WebMail to Mr. Sweeney.
-* One last hint: use the "advanced search (tracer) mode on onezoom.org to help you find how different organisms are related
+* One last hint: use the "advanced search (tracer) mode" on onezoom.org to help you find how different organisms are related
