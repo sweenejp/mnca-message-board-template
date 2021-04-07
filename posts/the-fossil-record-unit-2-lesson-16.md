@@ -8,7 +8,7 @@ tags:
   - Unit 2
   - Lessons
 ---
-Here are two videos that will better help you understand how we use fossils to uncover the history of life. Choose one of the videos to watch (or both if you feel like it).
+Here are two videos that will better help you understand how we use **fossils** to uncover the history of life. Choose one of the videos to watch (or both if you feel like it).
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/bRuSmxJo_iA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -18,6 +18,6 @@ Here are two videos that will better help you understand how we use fossils to u
 
 <br>
 
-Here is a video on radiocarbon dating which is a type of radiometric dating. Radiometric dating is a tool that allows us to know how old a fossil or artifact is.
+Here is a video on radiocarbon dating which is a type of **radiometric dating**. Radiometric dating is a tool that allows us to know how old a fossil or artifact is.
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/phZeE7Att_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
