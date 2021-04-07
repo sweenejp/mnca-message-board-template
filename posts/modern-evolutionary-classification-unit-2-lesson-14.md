@@ -35,3 +35,13 @@ What if I gave you three other animals to consider:
 * Robin
 
 Which of these 3 animals share the most recent common ancestor and why?
+
+---
+
+When biologists think about how different organisms are related, they create **cladograms** (also sometimes known as **phylogenetic trees)**. If you draw a diagram of the evolutionary relationship between different organisms, it would end up looking something like this:
+
+![a cladogram](https://cdn.kastatic.org/ka-perseus-images/049df77f7f73db86b9e408ef7847923d7af40cec.png)
+
+For a very clear explanation of cladograms, check out this video from Bozeman Science:
+
+<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/ouZ9zEkxGWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
