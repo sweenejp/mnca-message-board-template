@@ -2,6 +2,7 @@
 title: Extra Credit Opportunity - Creating your own cladogram
 date: 2021-04-07T19:21:44.121Z
 summary: Create a cladogram for some bonus points!
+featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1024px-Wild_aye_aye.jpg
 tags:
   - Announcements
 ---
