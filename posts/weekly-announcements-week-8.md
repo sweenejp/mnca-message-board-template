@@ -5,8 +5,6 @@ summary: Check out the announcements for this week!
 featuredImage: https://cdn.britannica.com/s:800x1000/84/206384-050-00698723/Javan-gliding-tree-frog.jpg
 tags:
   - Announcements
-  - Important
-  - Hide
 ---
 Hello Biology students!
 
