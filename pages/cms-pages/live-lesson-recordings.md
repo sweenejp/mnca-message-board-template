@@ -26,3 +26,5 @@ February 3rd - Intro to Heredity and Mendelian Patterns --two segments ([rec 1](
 [March 31st--Darwin's Four Postulates Cheer! (Evolution and Natural Selection)](https://www.connexus.com/external/livelesson/?url-path=plghip3crm03&domain=ww3.livelesson.com)
 
 [April 5th - Common Ancestors and Exploring the Tree of Life](https://www.connexus.com/external/livelesson/?url-path=p02om1r96egb&domain=ww3.livelesson.com)
+
+[April 7th - Taxonomy](https://www.connexus.com/external/livelesson/?url-path=p54h0w8pmp6n&domain=ww3.livelesson.com)
