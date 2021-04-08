@@ -19,7 +19,7 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text", hint: "This is the text that will appear below the post title on the home page." }
       - { label: "Featured Image", name: "featuredImage", widget: "image", required: false, hint: "Add an image to the post's card. This is what appears next to the post title on the home page." }
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["Alternative Quizzes", "Announcements", "FAQs", "How To", "Important", "Lessons", "Portfolios", "Tests", "Unit 1", "Unit 2", "Unit 3", "Unit 4", "Hide"], hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide' will keep the post off the Home Page." }
+      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["Alternative Quizzes", "Announcements", "FAQs", "How To", "Important", "Lessons", "Portfolios", "Tests", "Unit 1", "Unit 2", "Unit 3", "Unit 4", "Hide", "Extra Credit"], hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide' will keep the post off the Home Page." }
       - { label: "Body", name: "body", widget: "markdown" }
   # Teacher Pages
   - name: "teachers"
