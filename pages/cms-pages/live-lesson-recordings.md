@@ -1,6 +1,6 @@
 ---
 title: LiveLesson Recordings
-date: 2021-04-05T21:05:41.609Z
+date: 2021-04-12T18:18:40.575Z
 permalink: /livelesson-recordings/index.html
 ---
 Here are a list of this semester's LiveLesson Recordings:
@@ -28,3 +28,5 @@ February 3rd - Intro to Heredity and Mendelian Patterns --two segments ([rec 1](
 [April 5th - Common Ancestors and Exploring the Tree of Life](https://www.connexus.com/external/livelesson/?url-path=p02om1r96egb&domain=ww3.livelesson.com)
 
 [April 7th - Taxonomy](https://www.connexus.com/external/livelesson/?url-path=p54h0w8pmp6n&domain=ww3.livelesson.com)
+
+[April 12th - Extra Credit Assignment](https://www.connexus.com/external/livelesson/?url-path=pw4qghhywxn3&domain=ww3.livelesson.com)
