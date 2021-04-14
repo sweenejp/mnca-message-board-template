@@ -30,3 +30,5 @@ February 3rd - Intro to Heredity and Mendelian Patterns --two segments ([rec 1](
 [April 7th - Taxonomy](https://www.connexus.com/external/livelesson/?url-path=p54h0w8pmp6n&domain=ww3.livelesson.com)
 
 [April 12th - Extra Credit Assignment](https://www.connexus.com/external/livelesson/?url-path=pw4qghhywxn3&domain=ww3.livelesson.com)
+
+[April 14th--Invertebrate Evolution and Diversity](https://www.connexus.com/external/livelesson/?url-path=psa4e5kg0njk&domain=ww3.livelesson.com)
