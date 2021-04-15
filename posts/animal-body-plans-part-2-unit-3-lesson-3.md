@@ -25,4 +25,4 @@ In the next few lessons we will be learning more about specific phyla within the
 
 ## Sponges
 
-## Cnidarians
+## Cnidarians (jellyfish)
