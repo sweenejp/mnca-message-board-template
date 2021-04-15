@@ -21,4 +21,4 @@ All vertebrates (which includes humans) are in the phylum **chordata.** Some inv
 
 This is a really nice video that explores the variety of life within the phylum chordata. It's a bit longer, but I think it is worth watching.
 
-<div class="youtube-container"><iframe title="vimeo-player" src="https://player.vimeo.com/video/42588192" width="100%" height="360" frameborder="0" allowfullscreen></iframe></div>
+<div class="youtube-container"><iframe class="responsive-iframe" title="vimeo-player" src="https://player.vimeo.com/video/42588192" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
