@@ -5,8 +5,6 @@ summary: Take a few minutes to check the announcements.
 featuredImage: https://live.staticflickr.com/5577/14993921665_070df0bc11_b.jpg
 tags:
   - Announcements
-  - Important
-  - Hide
 ---
 Hello Biology students!
 
