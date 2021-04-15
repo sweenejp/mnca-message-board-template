@@ -1,5 +1,5 @@
 ---
-title: Applying Mendel's Principles Part 2 - Unit 2 Lesson 3
+title: Applying Mendel's Principles Part 2 - Unit 1 Lesson 3
 date: 2021-02-03T16:12:37.650Z
 summary: Incomplete Dominance, Codominance, Multiple Alleles, oh my!
 featuredImage: https://pixy.org/src2/589/5896837.jpg
