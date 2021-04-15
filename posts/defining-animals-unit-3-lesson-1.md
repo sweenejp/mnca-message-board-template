@@ -15,7 +15,7 @@ Sometimes we classify animals into one of two groups: vertebrates and invertebra
 
 However, this classification system can get a little sloppy because there are many different types of invertebrates and some of them are not very closely related to each other. Some invertebrates are more closely related to vertebrates than to other invertebrates. 
 
-Instead, we group animals into different **phyla.** Remember a phylum is a group one level below a **kingdom.** 
+A more precise way to organize animals is to group them into different **phyla.** Remember a phylum is a group one level below a **kingdom.** 
 
 All vertebrates (which includes humans) are in the phylum **chordata.** Some invertebrates are also chordates (in the phylum chordata).
 
