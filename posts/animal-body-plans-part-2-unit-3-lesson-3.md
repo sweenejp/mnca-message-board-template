@@ -25,4 +25,8 @@ In the next few lessons we will be learning more about specific phyla within the
 
 ## Sponges
 
+<div class="youtube-container"><iframe class="responsive-iframe" title="vimeo-player" src="https://player.vimeo.com/video/37032195" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
+
 ## Cnidarians (jellyfish)
+
+<div class="youtube-container"><iframe class="responsive-iframe" title="vimeo-player" src="https://player.vimeo.com/video/37267733" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
