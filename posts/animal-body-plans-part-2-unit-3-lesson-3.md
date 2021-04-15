@@ -7,7 +7,7 @@ tags:
   - Unit 3
   - Lessons
 ---
-In [the previous post](/posts/animal-body-plans-part-1-unit-3-lesson-2/), Hank from Crash Course described a major difference between animals that develop a mouth and (ahem) an anus and animals that only develop a mouth/anus. The first group are called triploblastic (which includes us, thankfully) and the second group are called diploblastic. Another main difference is that triploblastic end up having three main cell layers while diploblastic only have two. Notice how most animal phyla are triploblastic.
+In [the previous post](/posts/animal-body-plans-part-1-unit-3-lesson-2/), Hank from Crash Course described a major difference between two groups of animals. One group develops a mouth and (ahem) an anus. And another group only develops a combined mouth/anus. The first group are called triploblastic (which includes us, thankfully) and the second group are called diploblastic. Another main difference is that triploblastic end up having three main cell layers while diploblastic only have two. Notice how most animal phyla are triploblastic.
 
 ![](/static/img/diplo-vs-triplo.jpg)
 
