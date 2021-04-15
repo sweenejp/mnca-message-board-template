@@ -21,4 +21,8 @@ For more about these different germ layers, you can check out this very short vi
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/QPvhl66QCqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-In the next few lessons we will be learning more about specific phyla within the triploblastic group. But if you are curious to learn more about sea sponges and jellyfish
+In the next few lessons we will be learning more about specific phyla within the triploblastic group. But if you are curious to learn more about sea sponges and jellyfish, check out these two videos. These would be good resources to use for your upcoming portfolio as well!
+
+## Sponges
+
+## Cnidarians
