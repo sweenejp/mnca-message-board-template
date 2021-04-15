@@ -2,6 +2,7 @@
 title: Weekly Announcements - Week 10
 date: 2021-04-15T20:52:04.482Z
 summary: Announcements! Aghhhh!!!!
+featuredImage: /static/img/frilled-lizard-bbc.jpg
 tags:
   - Announcements
   - Important
