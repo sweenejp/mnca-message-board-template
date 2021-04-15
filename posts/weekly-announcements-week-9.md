@@ -1,12 +1,10 @@
 ---
 title: Weekly Announcements - Week 9
 date: 2021-04-08T19:42:01.577Z
-summary: Take a few minutes to check the announcements.
+summary: "This mantis is praying that you will read the announcements. "
 featuredImage: https://live.staticflickr.com/5577/14993921665_070df0bc11_b.jpg
 tags:
   - Announcements
-  - Important
-  - Hide
 ---
 Hello Biology students!
 
