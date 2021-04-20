@@ -6,6 +6,8 @@ featuredImage: https://live.staticflickr.com/3065/2502253885_6e0e1102e2.jpg
 tags:
   - Alternative Quizzes
   - Unit 3
+  - Hide
+  - Important
 ---
 **Please only complete this quiz if you have completed Unit 3 Lesson 9.**
 
