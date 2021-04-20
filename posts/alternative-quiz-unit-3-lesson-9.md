@@ -9,7 +9,7 @@ tags:
   - Hide
   - Important
 ---
-**Please only complete this quiz if you have completed Unit 3 Lesson 9.**
+**Please only complete this quiz if you have completed Unit 3 Lesson 9. If you take this quiz, it will replace the Connexus version of the quiz.**
 
 Once you have completed the quiz:
 
