@@ -5,8 +5,6 @@ summary: Announcements! Aghhhh!!!!
 featuredImage: /static/img/frilled-lizard-bbc.jpg
 tags:
   - Announcements
-  - Important
-  - Hide
 ---
 <!--StartFragment-->
 
