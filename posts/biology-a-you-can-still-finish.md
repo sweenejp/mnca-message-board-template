@@ -7,7 +7,7 @@ tags:
 ---
 Below is a series of alternative lessons for first semester Biology. By completing everything below, you can complete first semester Biology with a passing grade. Notice that there are no portfolios. There are no lessons within Connexus. You just have to complete the list of items that are below.
 
-##   Unit 2
+## Unit 2
 
 1. Watch the video [on this page](https://sweeneyscience.github.io/biology-announcements/Wolves-the-quintessential-keystone-species/) and answer this question: "How does the presence of the wolves affect both the living and the non-living things in Yellowstone?" Your answer should be 2-3 sentences. [Send me your response in a WebMail.](https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770)
 2. [Take this quiz](https://docs.google.com/forms/d/e/1FAIpQLSeK2PyXSi3kbUgb72Alz99vS0rxbSV_yOV7y1n7elDAaBxgnA/viewform)
@@ -36,4 +36,4 @@ Below is a series of alternative lessons for first semester Biology. By completi
 18. Let me know when you have completed the above tasks. Then finish by taking the [Unit 3 Test](https://sweeneyscience.github.io/biology-announcements/unit-3-final-test/)
 
 \
-That's it! If you put a genuinely good effort into these lessons, you will pass first semester Biology. This is a **good deal**. By completing these lessons, you will have an easier time understanding the beginning of second semester Biology. Plus, you will earn a passing grade for first semester Biology!
+That's it! If you put a genuinely good effort into these lessons, you will pass first semester Biology. This is a ***good deal***. By completing these lessons, you will have an easier time understanding the beginning of second semester Biology. Plus, you will earn a passing grade for first semester Biology!
