@@ -7,7 +7,7 @@ date: 2021-01-28T22:02:36.580Z
 teacherName: Mr. Michaletz
 featuredImage: /static/img/professional-photo.jpg
 youcanbookmeURL: https://rmichaletz.youcanbook.me
-phoneNumber: 651-243-2991
+phoneNumber: (612) 354-6542‬
 officeHours: "Wed/Thurs: 2-4 PM"
 ---
 Interests: outdoors, ecology, Gaming (video game and tabletops), Platypi, and art of all kinds! Also Dinosaurs. Always need more Dinosaurs.
