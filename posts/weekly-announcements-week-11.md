@@ -5,8 +5,6 @@ summary: This turtle is so happy that you are about to read the announcements.
 featuredImage: https://pbs.twimg.com/media/D54660ZXkAAZxxw?format=jpg&name=medium
 tags:
   - Announcements
-  - Hide
-  - Important
 ---
 Hello Biology students,
 
