@@ -6,6 +6,7 @@ featuredImage: https://media.healthdirect.org.au/images/inline/original/digestiv
 tags:
   - Unit 4
   - Lessons
+  - Hide
 ---
 Okay, we've learned that food is fuel and that you are what you eat. But your cells don't just take the carbohydrates, lipids, proteins, and nucleic acids from the things we eat and directly use them as own in our cells. The molecules have to be broken down so that our cells can use them as their own. Think about it, the DNA (a nucleic acid) that is in a banana that you eat can't just be put right into your cells. You don't want banana DNA in you! ( I assume). The banana's DNA needs to be recycled (so to speak) so that your cells can use the smaller DNA pieces to make more of your own DNA.
 
