@@ -6,6 +6,7 @@ featuredImage: https://waitbutwhy.com/wp-content/uploads/2018/04/Hominid-brain-1
 tags:
   - Unit 4
   - Lessons
+  - Hide
 ---
 I want to share a couple fun things for this lesson. Scroll down a bit to get to those things.
 
