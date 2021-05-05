@@ -17,10 +17,6 @@ But first, Professor Dave has two very good videos explaining in detail the two 
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/pDr6DDRHvUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<br>
-
-<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/DPWEhl7gbu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 <hr>
 
 Now on to the fun things.
