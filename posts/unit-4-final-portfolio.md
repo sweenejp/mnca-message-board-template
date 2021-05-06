@@ -6,8 +6,7 @@ featuredImage: https://upload.wikimedia.org/wikipedia/commons/1/1d/Vein_art_near
 tags:
   - Unit 4
   - Portfolios
-  - Tests
-  - Hide
+  - Important
 ---
 To wrap up Unit 4, you will complete **one (just one!)** of the following options:
 
