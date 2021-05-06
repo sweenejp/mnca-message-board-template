@@ -4,6 +4,7 @@ date: 2021-05-06T19:57:27.130Z
 summary: This is one of the three options for the Unit 4 Final Portfolio.
 tags:
   - Unit 4
+  - Hide
 ---
 [See here for details on how to complete this option.](https://docs.google.com/presentation/d/11tWv-xtFc3N_KBV_O5eZW_1sKQnfBqORv81y7J2RerA/edit?usp=sharing)
 
