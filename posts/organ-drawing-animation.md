@@ -4,6 +4,7 @@ date: 2021-05-06T19:37:45.817Z
 summary: This is one of the three options for the Unit 4 Final Portfolio.
 tags:
   - Unit 4
+  - Hide
 ---
 ### Make a drawing, diagram, or create a gif/animation 
 Choose one of the following organs or organ systems (or choose a different one that isn’t in the list!). The drawing, diagram, or animation should be created by you! You can use the textbook for help. (See below for examples).
