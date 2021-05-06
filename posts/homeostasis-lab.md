@@ -5,7 +5,7 @@ summary: This is one of the three options for the Unit 4 Final Portfolio.
 tags:
   - Unit 4
 ---
-See here for details on how to complete this option.
+[See here for details on how to complete this option.](https://docs.google.com/presentation/d/11tWv-xtFc3N_KBV_O5eZW_1sKQnfBqORv81y7J2RerA/edit?usp=sharing)
 
 - - -
 
@@ -14,6 +14,7 @@ See here for details on how to complete this option.
 [Go back to the Unit 4 Portfolio options.](/posts/unit-4-final-portfolio/)
 
 - - -
+
 ### All Done?
 
 To submit your portfolio assignment, you will save a copy of your work to your computer and then post it to [this Padlet](https://padlet.com/MNCA/8wq4rltpuqstfxfl).
