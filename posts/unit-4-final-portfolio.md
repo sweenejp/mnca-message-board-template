@@ -7,7 +7,6 @@ tags:
   - Unit 4
   - Portfolios
   - Tests
-  - Important
   - Hide
 ---
 To wrap up Unit 4, you will complete **one (just one!)** of the following options:
