@@ -1,5 +1,5 @@
 ---
-title: Organ Drawing/Animation
+title: Organ Drawing or Animation
 date: 2021-05-06T19:37:45.817Z
 summary: This is one of the three options for the Unit 4 Final Portfolio.
 tags:
