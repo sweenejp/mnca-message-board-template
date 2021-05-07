@@ -6,8 +6,6 @@ featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_ay
 tags:
   - Announcements
   - Extra Credit
-  - Important
-  - Hide
 ---
 Here are three animals.
 
