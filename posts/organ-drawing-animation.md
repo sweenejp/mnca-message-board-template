@@ -28,7 +28,6 @@ You can create your drawing or animation the old fashioned way (with drawing mat
 * Describe how it works with other organs or organ systems. Just like a car, no part of the body works alone - each organ works together with other organs.
 * What things come in and out of the organ?
 * What does the organ make (if anything)? Where do things go after they are processed/made in this organ?
-* What other organs does your organ work with? 
 
 Be as detailed as you can. In your drawing, label the parts that you discuss in the description.
 
