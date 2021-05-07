@@ -7,8 +7,6 @@ summary: |+
 featuredImage: https://www.theluxurysafaricompany.com/app/uploads/2019/09/Gorilla.jpg
 tags:
   - Announcements
-  - Hide
-  - Important
 ---
 Hello Biology students!
 
