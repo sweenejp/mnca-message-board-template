@@ -23,9 +23,14 @@ You can create your drawing or animation the old fashioned way (with drawing mat
 
 ### Add words!
 
-In a paragraph or two, describe the overall job of the organ. Describe how it works with other organ systems. What things come in and out of the organ? What does the organ make (if anything)? Where do things go after they are processed/made in this organ? What other organs does your organ work with? Just like a car, no part of the body works alone - each organ works together with other organs. 
+* Describe the overall job of the organ
+* Describe how each part of the organ helps it do its job.
+* Describe how it works with other organs or organ systems. Just like a car, no part of the body works alone - each organ works together with other organs.
+* What things come in and out of the organ?
+* What does the organ make (if anything)? Where do things go after they are processed/made in this organ?
+* What other organs does your organ work with? 
 
-Describe how each part of the organ helps it do its job. Be as detailed as possible. Label each part of the organ and describe the role of each part.
+Be as detailed as you can. In your drawing, label the parts that you discuss in the description.
 
 - - -
 
