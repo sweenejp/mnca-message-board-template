@@ -14,12 +14,13 @@ You can create your drawing or animation the old fashioned way (with drawing mat
 
 * Heart (pg 949)
 * Lungs (pg 963 - 967)
-* Digestive System (pg 875-881)
+* Small and large intestines (pg 875-881)
 * Eyes (pg 912 -913)
 * Ears (pg 911)
 * Kidneys
 * Liver
-* Pancreas 
+* Pancreas
+* Something else? Message a Biology teacher if you have a different idea. 
 
 ### Add words!
 
