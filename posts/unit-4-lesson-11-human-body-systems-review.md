@@ -7,6 +7,7 @@ tags:
   - Lessons
   - Unit 4
   - Alternative Quizzes
+  - Important
 ---
 No extra videos for today. You can review videos from lessons 3 through 10. Then when you are ready, you can take [](https://edpuzzle.com/assignments/609be8d8c9bd6f4129cd86dc/watch)the lesson 11 alternative quiz.
 
