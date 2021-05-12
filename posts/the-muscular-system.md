@@ -1,5 +1,5 @@
 ---
-title: The Muscular System
+title: The Muscular System - Unit 4 Lesson 10
 date: 2021-05-10T14:24:38.534Z
 summary: Smooth muscle, skeletal muscle, and cardiac muscle.
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/414_Skeletal_Smooth_Cardiac.jpg/320px-414_Skeletal_Smooth_Cardiac.jpg
