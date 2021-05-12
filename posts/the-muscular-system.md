@@ -1,6 +1,6 @@
 ---
 title: The Muscular System
-date: 2021-05-12T14:24:38.534Z
+date: 2021-05-10T14:24:38.534Z
 summary: Smooth muscle, skeletal muscle, and cardiac muscle.
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/414_Skeletal_Smooth_Cardiac.jpg/320px-414_Skeletal_Smooth_Cardiac.jpg
 tags:
