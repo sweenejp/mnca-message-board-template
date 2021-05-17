@@ -5,8 +5,6 @@ summary: This dolphin will flip out (of the water) if you don't read the announc
 featuredImage: https://live.staticflickr.com/3469/3382848616_03706b340c.jpg
 tags:
   - Announcements
-  - Important
-  - Hide
 ---
 Just two announcements this week.
 
