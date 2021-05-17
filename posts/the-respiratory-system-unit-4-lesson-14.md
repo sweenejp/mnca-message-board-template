@@ -2,6 +2,7 @@
 title: The Respiratory System - Unit 4 Lesson 14
 date: 2021-05-14T19:11:34.803Z
 summary: Learn more about the respiratory system!
+featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lungs_diagram_detailed.svg/469px-Lungs_diagram_detailed.svg.png
 tags:
   - Unit 4
   - Lessons
