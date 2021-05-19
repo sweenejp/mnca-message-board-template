@@ -26,13 +26,11 @@ This next video explains how the mRNA vaccines were developed. If you don't have
 
 Maybe that video will inspire you to go into a career in Bio-technology. 
 
-This last video is my favorite. At the top of this post, I talked about misconceptions about the vaccines. While there are many misconceptions, the only specific misconception I want to talk about in this post goes something like this:
+This last video is my favorite. At the top of this post, I talked about misconceptions about the vaccines. While there are many misconceptions, the only specific misconception I want to talk about in this post goes something like this: "I'm young and healthy and COVID-19 doesn't affect people like me so I don't need to get the vaccine."
 
-> I'm young and healthy and COVID-19 doesn't affect people like me so I don't need to get the vaccine.
+If you find yourself saying something like this, you have a misconception about vaccines. That's okay. Let me repeat that: *It's okay.* But be prepared to feel a bit uncomfortable because you are about to find out that you were misunderstanding something. And remember, when you understand the facts, it's good to change your mind!
 
-If you find yourself saying something like this, you have a misconception about vaccines. That's okay. But be prepared to feel a bit uncomfortable because you are about to find out that you were misunderstanding something. And remember, when you understand the facts, it's good to change your mind!
-
-So here it is: It does not matter if you aren't worried about getting sick from COVID-19. As you will see illustrated in this video **one of the main purposes of vaccines is to protect others from getting sick.** If you don't get the vaccine because you aren't worried about getting sick, you have to understand that you are potentially harming others. Getting a vaccine protects you *and* others from getting sick. The longer it takes for enough people to get vaccinated, the more likely people will continue to get harmed by the virus.
+So here it is: **It does not matter if you aren't worried about getting sick from COVID-19.** As you will see illustrated in this video **one of the main purposes of vaccines is to protect others from getting sick.** If you don't get the vaccine because you aren't worried about getting sick, you have to understand that you are potentially harming others. Getting a vaccine protects you *and* others from getting sick. The longer it takes for enough people to get vaccinated, the more likely people will continue to get harmed by the virus.
 
 Watch how this video illustrates this idea with ping-pong balls and mousetraps.
 
