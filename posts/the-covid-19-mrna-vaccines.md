@@ -38,4 +38,6 @@ Watch how this video illustrates this idea with ping-pong balls and mousetraps.
 
 [Take a moment to post on this Padlet about something you learned from this post.](https://padlet.com/MNCA/wjlmsbqlbc4pa5ap) What questions do you still have about the vaccines? What did you find interesting or confusing? I hope you found this post interesting all on its own. But if you'd like a little extra motivation, I will grant you extra credit by posting to the Padlet. (If you'd rather send me a [WebMail](https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770) than post on the Padlet, you can do that as well.)
 
-I hope you have a wonderful and safe summer.
+I hope you enjoyed Biology class this year. I hope you feel a little more informed and ready to bash false misconceptions when you come across them. And I hope you have a wonderful and safe summer.
+
+\- Mr. Sweeney
