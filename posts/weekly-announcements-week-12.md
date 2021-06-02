@@ -1,9 +1,7 @@
 ---
 title: Weekly Announcements - Week 12
 date: 2021-04-30T21:17:16.775Z
-summary: |+
-  This baby gorilla will be disappointed if you don't read the announcements...
-
+summary: This baby gorilla will be disappointed if you don't read the announcements...
 featuredImage: https://www.theluxurysafaricompany.com/app/uploads/2019/09/Gorilla.jpg
 tags:
   - Announcements
