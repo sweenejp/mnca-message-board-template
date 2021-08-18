@@ -5,6 +5,7 @@ summary: Create a cladogram for some bonus points!
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1024px-Wild_aye_aye.jpg
 tags:
   - Announcements
+  - Extra Credit
 ---
 Here are three animals.
 
