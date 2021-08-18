@@ -1,5 +1,5 @@
 ---
-title: What's a "Semester Conference"?
+title: What's a 'Semester Conference'?
 date: 2021-02-18T17:00:49.298Z
 summary: It's required for all students!
 featuredImage: https://live.staticflickr.com/3564/3303800772_6d09485569_b.jpg

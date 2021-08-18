@@ -6,12 +6,18 @@ section: home
 
 <div class="home-page-banner"><div>
 <div class="featured-posts-div">
+{% if collections.Important %}
 <h2 class="featured-posts-heading">Here are the most important posts at the moment</h2>
     {% set postslist = collections.Important %}
     {% include "components/postslist-reverse.njk" %}
 </div>
 
+<br>
+<br>
+<br>
+
 <h2 class="all-posts-heading">Here are all of the posts!</h2>
+{% endif %}
 
 {% set postslist = collections.post %}
 {% include "components/postslist-reverse-mini.njk" %}

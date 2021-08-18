@@ -1,7 +1,7 @@
 ---
 webmailURL: https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idRecipient=3453988
 permalink: /ruble/index.html
-title: All about Ms. Ruble
+title: About Ms. Ruble
 date: 2021-01-28T18:44:38.543Z
 teacherName: Ms. Ruble
 featuredImage: /static/img/60czl-0_400x400.jpg

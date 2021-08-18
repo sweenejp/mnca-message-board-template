@@ -2,10 +2,10 @@
 webmailURL: https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770
 livelessonURL: http://www.connexus.com/external/singleSignOn/launch.aspx?staticId=liveLesson&url-path=jasweeney&domain=ww3.livelesson.com
 permalink: /sweeney/index.html
-title: All about Mr. Sweeney
+title: About Mr. Sweeney
 date: 2021-01-29T22:40:12.185Z
 teacherName: Mr. Sweeney
-featuredImage: /static/img/mr.-sweeney.jpg
+featuredImage: /static/img/mr-sweeney.jpg
 youcanbookmeURL: https://jasweeney.youcanbook.me/
 phoneNumber: 612-293-9129
 officeHours: Varies - It's best to book a meeting!

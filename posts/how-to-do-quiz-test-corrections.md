@@ -4,12 +4,11 @@ date: 2021-01-28T21:37:21.187Z
 summary: Want to earn points back on tests or quizzes? Check here!
 tags:
   - FAQs
-  - Alternative Quizzes
   - How To
 ---
 All quizzes can be made up two ways:
 
-1. Taking the Alternative Quiz for that lesson on the [message board](https://mnca-biology-message-board.netlify.app/#) (Click quizzes on the side to find them). Each quiz is labelled under the same unit and chapter as it would be on connexus.
+1. Taking the [Alternative Quiz](/tags/alternative%20quizzes/) for that lesson on the Message Board. Each quiz is labelled under the same unit and chapter as it would be on connexus.
 2. You can do quiz/test corrections using the steps below.
 
 For any points missed on a test or quiz, please use the following format to submit corrections. In a webmail to your teacher, please let us know the name of the assessment you are submitting corrections for. Then, include the following:
