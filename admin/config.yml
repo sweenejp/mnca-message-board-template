@@ -46,7 +46,7 @@ collections:
               widget: "text",
               hint: "Copy and paste the site home page URL here.",
             }
-          - { label: "Tags", name: "tags", widget: "string" }
+          - { label: "Tags", name: "tags", widget: "list" }
 
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
