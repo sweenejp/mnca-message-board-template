@@ -46,6 +46,8 @@ collections:
               widget: "text",
               hint: "Copy and paste the site home page URL here.",
             }
+          - { label: "Tags", name: "tags", widget: "string" }
+
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
@@ -71,26 +73,12 @@ collections:
       - {
           label: "Tags",
           name: "tags",
-          widget: "select",
+          widget: "relation",
           multiple: true,
-          options:
-            [
-              "Alternative Quizzes",
-              "Announcements",
-              "FAQs",
-              "How To",
-              "Important",
-              "Lessons",
-              "Portfolios",
-              "Tests",
-              "Unit 1",
-              "Unit 2",
-              "Unit 3",
-              "Unit 4",
-              "Hide",
-              "Extra Credit",
-            ],
-          hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide' will keep the post off the Home Page.",
+          collection: "metadata",
+          display_fields: ["tags"],
+          search_fields: ["tags"],
+          value_field: "tags.*",
         }
       - { label: "Body", name: "body", widget: "markdown" }
   # Teacher Pages

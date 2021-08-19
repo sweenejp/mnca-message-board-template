@@ -2,5 +2,6 @@
   "title": "The Social Studies Message Board",
   "subtitle": "Minnesota Connections Academy",
   "description": "Resoureces and Announcements for Biology students at Minnesota Connections Academy",
-  "url": "https://mnca-biology-message-board.netlify.app/"
+  "url": "https://mnca-biology-message-board.netlify.app/",
+  "tags": ["Unit 1", "Unit 2", "Extra Credit"]
 }
