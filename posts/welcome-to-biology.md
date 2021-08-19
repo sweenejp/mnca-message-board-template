@@ -1,11 +1,12 @@
 ---
-title: "Welcome to Biology!"
+title: Welcome to Biology
 date: 2021-08-31
-tags: 
+summary: this is required!
+featuredImage: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80
+tags:
   - Important
   - Hide
   - Announcements
-featuredImage: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80
 ---
 
 ### Welcome to the wonderful world of BIOLOGY!!
