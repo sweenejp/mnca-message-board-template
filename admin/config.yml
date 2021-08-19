@@ -47,6 +47,15 @@ collections:
               hint: "Copy and paste the site home page URL here.",
             }
           - { label: "Tags", name: "tags", widget: "list" }
+          - {
+              label: "Post chooser",
+              name: "post-relation",
+              widget: "relation",
+              collection: "posts",
+              search_fields: ["title"],
+              value_field: "title",
+              display_fields: ["title"],
+            }
 
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -78,7 +87,7 @@ collections:
           collection: "metadata",
           display_fields: ["tags"],
           search_fields: ["tags"],
-          value_field: "tags.*",
+          value_field: "tags*",
         }
       - { label: "Body", name: "body", widget: "markdown" }
   # Teacher Pages
