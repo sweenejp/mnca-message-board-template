@@ -1,6 +1,5 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: test-repo
 
 # Uncomment below to enable drafts
 publish_mode: editorial_workflow
@@ -8,6 +7,16 @@ publish_mode: editorial_workflow
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
 collections:
+  - name: "metadata"
+    label: "Metadata"
+    folder: "_data"
+    create: true
+    extension: "json"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "URL", name: "url", widget: "text" }
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
@@ -17,9 +26,43 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Summary", name: "summary", widget: "text", hint: "This is the text that will appear below the post title on the home page." }
-      - { label: "Featured Image", name: "featuredImage", widget: "image", required: false, hint: "Add an image to the post's card. This is what appears next to the post title on the home page." }
-      - { label: "Tags", name: "tags", widget: "select", multiple: true, options: ["Alternative Quizzes", "Announcements", "FAQs", "How To", "Important", "Lessons", "Portfolios", "Tests", "Unit 1", "Unit 2", "Unit 3", "Unit 4", "Hide", "Extra Credit"], hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide' will keep the post off the Home Page." }
+      - {
+          label: "Summary",
+          name: "summary",
+          widget: "text",
+          hint: "This is the text that will appear below the post title on the home page.",
+        }
+      - {
+          label: "Featured Image",
+          name: "featuredImage",
+          widget: "image",
+          required: false,
+          hint: "Add an image to the post's card. This is what appears next to the post title on the home page.",
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          options:
+            [
+              "Alternative Quizzes",
+              "Announcements",
+              "FAQs",
+              "How To",
+              "Important",
+              "Lessons",
+              "Portfolios",
+              "Tests",
+              "Unit 1",
+              "Unit 2",
+              "Unit 3",
+              "Unit 4",
+              "Hide",
+              "Extra Credit",
+            ],
+          hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide' will keep the post off the Home Page.",
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   # Teacher Pages
   - name: "teachers"
@@ -30,13 +73,52 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Your Name", name: "teacherName", widget: "string", hint: "This is how your name will be displayed (i.e 'Ms. Smith' or 'Suzzy Smith')"}
-      - { label: "Image", name: "featuredImage", widget: "image", required: false, default: "https://freesvgdesigns.com/wp-content/uploads/2020/09/00034.png" }
-      - { label: "Youcanbook.me Page", name: "youcanbookmeURL", required: false, hint: "Paste the link to your youcanbook.me page", widget: "string"}
-      - { label: "WebMail", name: "webmailURL", required: false, hint: "Paste the link to your WebMail", widget: "string"}
-      - { label: "Phone Number", name: "phoneNumber", required: false, widget: "string"}
-      - { label: "Office Hours", name: "officeHours", required: false, widget: "string"}
-      - { label: "LiveLesson Room", name: "livelessonURL", required: false, widget: "string", hint: "Paste the link to your LL room here"}
+      - {
+          label: "Your Name",
+          name: "teacherName",
+          widget: "string",
+          hint: "This is how your name will be displayed (i.e 'Ms. Smith' or 'Suzzy Smith')",
+        }
+      - {
+          label: "Image",
+          name: "featuredImage",
+          widget: "image",
+          required: false,
+          default: "https://freesvgdesigns.com/wp-content/uploads/2020/09/00034.png",
+        }
+      - {
+          label: "Youcanbook.me Page",
+          name: "youcanbookmeURL",
+          required: false,
+          hint: "Paste the link to your youcanbook.me page",
+          widget: "string",
+        }
+      - {
+          label: "WebMail",
+          name: "webmailURL",
+          required: false,
+          hint: "Paste the link to your WebMail",
+          widget: "string",
+        }
+      - {
+          label: "Phone Number",
+          name: "phoneNumber",
+          required: false,
+          widget: "string",
+        }
+      - {
+          label: "Office Hours",
+          name: "officeHours",
+          required: false,
+          widget: "string",
+        }
+      - {
+          label: "LiveLesson Room",
+          name: "livelessonURL",
+          required: false,
+          widget: "string",
+          hint: "Paste the link to your LL room here",
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   # Other pages
   - name: "pages"
