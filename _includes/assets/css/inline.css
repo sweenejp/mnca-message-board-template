@@ -319,20 +319,18 @@ main {
   font-size: 1.25rem;
 }
 
-.contact-options-list-item a {
+.contact-options-list-item a,
+.results a {
   color: var(--primary);
   padding: 6px;
   border-radius: 15px;
-  transition: color 250ms ease-in-out, background-color 250ms ease-in-out;
+  transition: background-color 250ms ease-in-out;
 }
 
-.contact-options-list-item a:hover {
-  color: var(--tertiary);
-  background-color: var(--secondary);
-}
-
-.contact-options-list-item a:focus {
-  color: var(--tertiary);
+.contact-options-list-item a:hover,
+.contact-options-list-item a:focus,
+.results a:hover,
+.results a:focus {
   background-color: var(--secondary);
 }
 
