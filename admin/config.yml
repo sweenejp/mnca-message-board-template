@@ -10,14 +10,42 @@ media_folder: "static/img" # Media files will be stored in the repo under images
 collections:
   - name: "metadata"
     label: "Metadata"
-    folder: "_data"
-    create: true
-    extension: "json"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Subtitle", name: "subtitle", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "URL", name: "url", widget: "text" }
+    editor:
+      preview: false
+    create: false
+    delete: false
+    files:
+      - name: "general"
+        label: "Site Settings"
+        file: "_data/metadata.json"
+        description: "General Site Settings"
+        fields:
+          - {
+              label: "Site Title",
+              name: "title",
+              widget: "string",
+              hint: "example: 'The Biology Message Board'",
+              default: "Our Class's Message Board",
+            }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              default: "Minnesota Connections Academy",
+              hint: "This text will appear under the site title on the top navigation bar",
+            }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "string",
+              hint: "example: 'Resoureces and Announcements for Biology students at Minnesota Connections Academy'",
+            }
+          - {
+              label: "URL",
+              name: "url",
+              widget: "text",
+              hint: "Copy and paste the site home page URL here.",
+            }
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
