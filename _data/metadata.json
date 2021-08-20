@@ -10,5 +10,7 @@
     "background": "#daf8ff",
     "headercolor": "white",
     "headerbackground": "rgb(67, 69, 78)"
-  }
+  },
+  "colors.primary": "#7af02b",
+  "colors.secondary": "#ffb000"
 }
