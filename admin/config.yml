@@ -43,24 +43,26 @@ collections:
           - {
               label: "URL",
               name: "url",
-              widget: "text",
+              widget: "string",
               hint: "Copy and paste the site home page URL here.",
             }
-
-      - name: "colors"
-        label: "Site Colors"
-        file: "_data/colors.json"
-        description: "Choose the sites colors"
-        fields:
-          - { label: "Primary Color", name: "primary", widget: "color" }
-          - { label: "Secondary Color", name: "secondar", widget: "color" }
-          - { label: "Tertiary Color", name: "tertiary", widget: "color" }
-          - { label: "Background Color", name: "background", widget: "color" }
-          - { label: "Header Color", name: "header", widget: "color" }
           - {
-              label: "Header Background Color",
-              name: "headerbackground",
-              widget: "color",
+              label: "Course Name",
+              name: "courseName",
+              widget: "string",
+              hint: "example: 'Algebra 2'",
+            }
+          - {
+              label: "LiveLesson Room URL",
+              name: "liveLessonRoomURL",
+              widget: "string",
+              hint: "Copy and paste your LL room URL here",
+            }
+          - {
+              label: "LiveLesson Schedule",
+              name: "liveLessonSchedule",
+              widget: "string",
+              hint: "example: 'Monday's at 1:00 PM",
             }
 
   # Our blog posts
@@ -76,7 +78,7 @@ collections:
           label: "Summary",
           name: "summary",
           widget: "text",
-          hint: "This is the text that will appear below the post title on the home page.",
+          hint: "This is the text that will appear below the post title on the home page. Writing a summary also helps students to find posts with the 'search' button.",
         }
       - {
           label: "Featured Image",

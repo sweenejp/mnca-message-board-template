@@ -1,6 +1,10 @@
 {
-  "title": "The Social Studies Message Board",
+  "title": "The Algebra Message Board",
   "subtitle": "Minnesota Connections Academy",
+  "courseName": "Algebra",
   "description": "Resoureces and Announcements for Biology students at Minnesota Connections Academy",
-  "url": "https://mnca-biology-message-board.netlify.app/"
+  "url": "https://mnca-biology-message-board.netlify.app/",
+  "liveLessonRoomURL" : "https://www.google.com/",
+  "liveLessonRoomLabel": "LiveLesson Room",
+  "liveLessonSchedule": "Wednesdays at 1:00 PM"
 }

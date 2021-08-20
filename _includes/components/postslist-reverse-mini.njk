@@ -1,6 +1,7 @@
 <section class="postslist-grid-reverse-mini">
 	{% for post in postslist | reverse %}
-        {% if "Hide" in post.data.tags %}
+        {% if "Important" in post.data.tags %}
+        {% elseif "Hide" in post.data.tags %}
         {% else %}
 		<article class="post-card post-card-mini" {% if post.url == url %} data-current="current item"{% endif %}>
 			{% if post.data.featuredImage %}

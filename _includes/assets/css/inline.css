@@ -6,12 +6,14 @@ font-family: 'Lato', sans-serif;
 */
 
 :root {
-  --primary: {{colors.primary}};
-  --secondary: {{colors.secondary}};
-  --tertiary: {{colors.tertiary}};
-  --backgroundcolor: {{colors.background}};
-  --headercolor: {{colors.header}};
-  --headerbackgroundcolor: {{colors.headerbackground}};
+  /*change these values to customize colors, fontsize, and background image*/
+  --primary: #722362;
+  --secondary: #76d5d4;
+  --tertiary: #ea067e;
+  --backgroundcolor: #daf8ff;
+  --headercolor: white;
+  --headerbackgroundcolor: rgb(67, 69, 78);
+  --backgroundimage: url(/_includes/assets/images/turtle-line-art-valessiobrito-Green-sea-turtle.svg);
   font-size: 18px;
 }
 
@@ -147,7 +149,7 @@ layout
 ==================== */
 
 body {
-  background: url(/_includes/assets/images/turtle-line-art-valessiobrito-Green-sea-turtle.svg);
+  background: var(--backgroundimage);
   background-color: var(--backgroundcolor);
   background-repeat: no-repeat;
   background-blend-mode: screen;
@@ -666,6 +668,7 @@ a[rel="tag"]:last-child {
 
 .search_btn {
   padding: 10px;
+  font-size: 16px;
   font-family: "Lato", sans-serif;
   color: var(--headerbackgroundcolor);
   background: var(--secondary);
