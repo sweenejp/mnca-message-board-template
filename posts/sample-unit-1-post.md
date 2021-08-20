@@ -7,6 +7,12 @@ tags:
   - Unit 1
   - Important
 ---
+Add text here.
 
+Include images:
+
+![A penguin frolicking](https://images.unsplash.com/photo-1598439210625-5067c578f3f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80)
+
+Embed videos
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/MfstYSUscBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
