@@ -3,5 +3,12 @@
   "subtitle": "Minnesota Connections Academy",
   "description": "Resoureces and Announcements for Biology students at Minnesota Connections Academy",
   "url": "https://mnca-biology-message-board.netlify.app/",
-  "tags": ["Unit 1", "Unit 2", "Extra Credit"]
+  "colors": {
+    "primary": "#722362",
+    "secondary": "#76d5d4",
+    "tertiary": "#ea067e",
+    "background": "#daf8ff",
+    "headercolor": "white",
+    "headerbackground": "rgb(67, 69, 78)"
+  }
 }

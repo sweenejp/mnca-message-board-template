@@ -6,12 +6,12 @@ font-family: 'Lato', sans-serif;
 */
 
 :root {
-  --primary: #722362;
-  --secondary: #76d5d4;
-  --tertiary: #ea067e;
-  --background: #daf8ff;
-  --headercolor: white;
-  --headerbackground: rgb(67, 69, 78);
+  --primary: {{metadata.colors.primary}};
+  --secondary: {{metadata.colors.secondary}};
+  --tertiary: {{metadata.colors.tertiary}};
+  --background: {{metadata.colors.background}};
+  --headercolor: {{metadata.colors.headercolor}};
+  --headerbackground: {{metadata.colors.headerbackground}};
   font-size: 18px;
 }
 

@@ -8,8 +8,8 @@ publish_mode: editorial_workflow
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
 collections:
-  - name: "metadata"
-    label: "Metadata"
+  - name: "settings"
+    label: "Settings"
     editor:
       preview: false
     create: false
@@ -46,15 +46,11 @@ collections:
               widget: "text",
               hint: "Copy and paste the site home page URL here.",
             }
-          - { label: "Tags", name: "tags", widget: "list" }
+          - { label: "Primary Color", name: "colors.primary", widget: "color" }
           - {
-              label: "Post chooser",
-              name: "post-relation",
-              widget: "relation",
-              collection: "posts",
-              search_fields: ["title"],
-              value_field: "title",
-              display_fields: ["title"],
+              label: "Secondary Color",
+              name: "colors.secondary",
+              widget: "color",
             }
 
   # Our blog posts
@@ -82,17 +78,14 @@ collections:
       - {
           label: "Tags",
           name: "tags",
-          widget: "relation",
-          multiple: true,
-          collection: "metadata",
-          display_fields: ["tags"],
-          search_fields: ["tags"],
-          value_field: "tags*",
+          widget: "list",
+          required: false,
+          hint: "If you do not tag your post with anything, the post will only show up on the home page! Seperate tags with commas. Use dashes or underscores instead of spaces.",
         }
       - { label: "Body", name: "body", widget: "markdown" }
   # Teacher Pages
   - name: "teachers"
-    label: "Teacher Page"
+    label: "Teacher Contact Card"
     folder: "pages/teachers"
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
