@@ -16,3 +16,5 @@ Include images:
 Embed videos
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/MfstYSUscBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Anything that can be embedding could be included on this page (including, for example, a google form).
