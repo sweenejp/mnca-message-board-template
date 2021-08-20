@@ -2,13 +2,5 @@
   "title": "The Social Studies Message Board",
   "subtitle": "Minnesota Connections Academy",
   "description": "Resoureces and Announcements for Biology students at Minnesota Connections Academy",
-  "url": "https://mnca-biology-message-board.netlify.app/",
-  "colors": {
-    "primary": "#722362",
-    "secondary": "#76d5d4",
-    "tertiary": "#ea067e",
-    "background": "#daf8ff",
-    "headercolor": "white",
-    "headerbackground": "rgb(67, 69, 78)"
-  }
+  "url": "https://mnca-biology-message-board.netlify.app/"
 }

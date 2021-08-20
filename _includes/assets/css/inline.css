@@ -6,12 +6,12 @@ font-family: 'Lato', sans-serif;
 */
 
 :root {
-  --primary: {{metadata.colors.primary}};
-  --secondary: {{metadata.colors.secondary}};
-  --tertiary: {{metadata.colors.tertiary}};
-  --background: {{metadata.colors.background}};
-  --headercolor: {{metadata.colors.headercolor}};
-  --headerbackground: {{metadata.colors.headerbackground}};
+  --primary: {{colors.primary}};
+  --secondary: {{colors.secondary}};
+  --tertiary: {{colors.tertiary}};
+  --backgroundcolor: {{colors.background}};
+  --headercolor: {{colors.header}};
+  --headerbackgroundcolor: {{colors.headerbackground}};
   font-size: 18px;
 }
 
@@ -148,7 +148,7 @@ layout
 
 body {
   background: url(/_includes/assets/images/turtle-line-art-valessiobrito-Green-sea-turtle.svg);
-  background-color: var(--background);
+  background-color: var(--backgroundcolor);
   background-repeat: no-repeat;
   background-blend-mode: screen;
 }
@@ -160,7 +160,7 @@ main {
 }
 
 .sidebar {
-  background-color: var(--headerbackground);
+  background-color: var(--headerbackgroundcolor);
   margin-top: 1em;
   padding: 1em;
   margin-left: 1em;
@@ -412,7 +412,7 @@ main {
 header {
   position: relative;
   grid-area: 1 / 1 / 2 / 3;
-  background-color: var(--headerbackground);
+  background-color: var(--headerbackgroundcolor);
   width: 100%;
   box-shadow: 3px 3px 10px 0 rgba(0, 0, 0, 0.25);
   z-index: 999;
@@ -433,7 +433,7 @@ header {
 
 nav {
   position: absolute;
-  background: var(--headerbackground);
+  background: var(--headerbackgroundcolor);
   top: 100%;
   left: 0;
   width: 100%;
@@ -652,12 +652,12 @@ a[rel="tag"]:visited {
 
 a[rel="tag"]:hover {
   background-color: var(--primary);
-  color: var(--background);
+  color: var(--backgroundcolor);
 }
 
 a[rel="tag"]:focus {
   background-color: var(--primary);
-  color: var(--background);
+  color: var(--backgroundcolor);
 }
 
 a[rel="tag"]:last-child {
@@ -667,7 +667,7 @@ a[rel="tag"]:last-child {
 .search_btn {
   padding: 10px;
   font-family: "Lato", sans-serif;
-  color: var(--headerbackground);
+  color: var(--headerbackgroundcolor);
   background: var(--secondary);
   border: solid 3px var(--tertiary);
   border-radius: 25px;
@@ -676,7 +676,7 @@ a[rel="tag"]:last-child {
 
 .search_btn:focus,
 .search_btn:hover {
-  color: var(--background);
+  color: var(--backgroundcolor);
   background-color: var(--primary);
 }
 

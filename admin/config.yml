@@ -46,10 +46,20 @@ collections:
               widget: "text",
               hint: "Copy and paste the site home page URL here.",
             }
-          - { label: "Primary Color", name: "colors.primary", widget: "color" }
+
+      - name: "colors"
+        label: "Site Colors"
+        file: "_data/colors.json"
+        description: "Choose the sites colors"
+        fields:
+          - { label: "Primary Color", name: "primary", widget: "color" }
+          - { label: "Secondary Color", name: "secondar", widget: "color" }
+          - { label: "Tertiary Color", name: "tertiary", widget: "color" }
+          - { label: "Background Color", name: "background", widget: "color" }
+          - { label: "Header Color", name: "header", widget: "color" }
           - {
-              label: "Secondary Color",
-              name: "colors.secondary",
+              label: "Header Background Color",
+              name: "headerbackground",
               widget: "color",
             }
 
