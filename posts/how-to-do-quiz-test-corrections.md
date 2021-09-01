@@ -4,7 +4,7 @@ date: 2021-01-28T21:37:21.187Z
 summary: Want to earn points back on tests or quizzes? Check here!
 tags:
   - FAQs
-  - How To
+  - How-To
 ---
 All quizzes can be made up two ways:
 
