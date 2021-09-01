@@ -92,7 +92,7 @@ collections:
           name: "tags",
           widget: "list",
           required: false,
-          hint: "If you do not tag your post with anything, the post will only show up on the home page! Seperate tags with commas. Use dashes or underscores instead of spaces.",
+          hint: "Tags sort posts into different pages. Seperate tags with commas. Use dashes or underscores instead of spaces. 'Important' puts posts at the top of the home page. 'Hide' hides posts from the 'all posts' section on the home page.",
         }
       - { label: "Body", name: "body", widget: "markdown" }
   # Teacher Pages
