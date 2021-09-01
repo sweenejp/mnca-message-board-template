@@ -1,7 +1,7 @@
 ---
 title: How To Send a WebMail with an Attachment
 tags:
-  - How To
+  - How-To
   - Hide
 homepage-off: true;
 date: 2021-01-01T16:20:57.832Z
