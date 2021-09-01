@@ -1,7 +1,7 @@
 ---
 title: How To Find Your Student ID
 tags:
-  - How To
+  - How-To
   - Hide
 homepage-off: true;
 date: 2021-01-01T16:34:40.386Z
