@@ -6,7 +6,7 @@ summary: A quick guide to our new Message Board. Portfolios? Quizzes? Tests?
   Message Board.
 featuredImage: https://i.pinimg.com/originals/46/9e/93/469e93f1977e039f13730a84c4c3ed7f.jpg
 tags:
-  - How To
+  - How-To
   - Announcements
   - Important
   - Hide
