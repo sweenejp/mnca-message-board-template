@@ -5,15 +5,14 @@
 				<a href="{{ post.url | url }}"><img class="post-card-image"src="{{ post.data.featuredImage }}" loading="lazy" alt=""></a>
 			{% endif %}
 			<div class="post-card-body">
-				<h3 class="post-card-title">
-					<a href="{{ post.url | url }}">
+				<a href="{{ post.url | url }}">
+					<h3 class="post-card-title">
 						{% if post.data.title %}
 							{{ post.data.title }}
 						{% else %}
 							Untitled
-						{% endif %}
+						{% endif %}</h3>
 					</a>
-				</h3>
 				<p class="post-card-data">
 					<time datetime="{{ post.date | machineDate }}">
 						<small>{{ post.date | readableDate }}</small>

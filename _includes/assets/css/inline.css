@@ -6,14 +6,13 @@ font-family: 'Lato', sans-serif;
 */
 
 :root {
-  /*change these values to customize colors, fontsize, and background image*/
   --primary: #722362;
   --secondary: #76d5d4;
   --tertiary: #ea067e;
-  --backgroundcolor: #daf8ff;
+  --background: #daf8ff;
   --headercolor: white;
-  --headerbackgroundcolor: rgb(67, 69, 78);
-  --backgroundimage: url(/_includes/assets/images/turtle-line-art-valessiobrito-Green-sea-turtle.svg);
+  --headerbackground: rgb(67, 69, 78);
+  --post-card-title-background-color: #76d5d360;
   font-size: 18px;
 }
 
@@ -149,8 +148,8 @@ layout
 ==================== */
 
 body {
-  background: var(--backgroundimage);
-  background-color: var(--backgroundcolor);
+  background: url(/_includes/assets/images/turtle-line-art-valessiobrito-Green-sea-turtle.svg);
+  background-color: var(--background);
   background-repeat: no-repeat;
   background-blend-mode: screen;
 }
@@ -162,7 +161,7 @@ main {
 }
 
 .sidebar {
-  background-color: var(--headerbackgroundcolor);
+  background-color: var(--headerbackground);
   margin-top: 1em;
   padding: 1em;
   margin-left: 1em;
@@ -203,10 +202,11 @@ main {
   padding: 0.5em;
 }
 
-.post-card-title a {
+.post-card-title {
+  background-color: var(--post-card-title-background-color);
+  padding: 0.25em;
+  border-radius: 5px;
   color: black;
-
-  /* title hover effect */
   background-image: linear-gradient(180deg, transparent 89%, var(--tertiary) 0);
   background-repeat: no-repeat;
   background-size: 0 100%;
@@ -214,12 +214,12 @@ main {
   position: relative;
 }
 
-.post-card-title a:hover {
+.post-card-title:hover {
   text-decoration: none;
   background-size: 100% 100%;
 }
 
-.post-card-title a:focus {
+.post-card-title:focus {
   text-decoration: none;
   background-size: 100% 100%;
 }
@@ -237,6 +237,7 @@ main {
 .post-card-mini {
   display: flex;
   align-items: center;
+  padding-top: 0.25em;
 }
 
 .post-card-image-mini {
@@ -414,7 +415,7 @@ main {
 header {
   position: relative;
   grid-area: 1 / 1 / 2 / 3;
-  background-color: var(--headerbackgroundcolor);
+  background-color: var(--headerbackground);
   width: 100%;
   box-shadow: 3px 3px 10px 0 rgba(0, 0, 0, 0.25);
   z-index: 999;
@@ -435,7 +436,7 @@ header {
 
 nav {
   position: absolute;
-  background: var(--headerbackgroundcolor);
+  background: var(--headerbackground);
   top: 100%;
   left: 0;
   width: 100%;
@@ -654,12 +655,12 @@ a[rel="tag"]:visited {
 
 a[rel="tag"]:hover {
   background-color: var(--primary);
-  color: var(--backgroundcolor);
+  color: var(--background);
 }
 
 a[rel="tag"]:focus {
   background-color: var(--primary);
-  color: var(--backgroundcolor);
+  color: var(--background);
 }
 
 a[rel="tag"]:last-child {
@@ -668,9 +669,8 @@ a[rel="tag"]:last-child {
 
 .search_btn {
   padding: 10px;
-  font-size: 16px;
   font-family: "Lato", sans-serif;
-  color: var(--headerbackgroundcolor);
+  color: var(--headerbackground);
   background: var(--secondary);
   border: solid 3px var(--tertiary);
   border-radius: 25px;
@@ -679,7 +679,7 @@ a[rel="tag"]:last-child {
 
 .search_btn:focus,
 .search_btn:hover {
-  color: var(--backgroundcolor);
+  color: var(--background);
   background-color: var(--primary);
 }
 
